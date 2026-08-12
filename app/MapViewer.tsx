@@ -16,6 +16,14 @@ const HIGHLIGHT_LEADING_ICONS: Record<string, { src: string; alt: string }> = {
     alt: "收藏家的地图",
   },
   "布蕾塔(Bretta)": { src: "/icons/收集物/面具碎片.png", alt: "面具碎片" },
+  "灰色哀悼者(Grey Mourner)": {
+    src: "/icons/弹窗装饰/娇嫩的花.png",
+    alt: "娇嫩的花",
+  },
+  "叛徒之女(The Traitors’ Child)": {
+    src: "/icons/弹窗装饰/娇嫩的花.png",
+    alt: "娇嫩的花",
+  },
   "骨钉大师席奥(Nailmaster Sheo)": {
     src: "/icons/剑技/强力劈砍（Great Slash）.png",
     alt: "强力劈砍",
