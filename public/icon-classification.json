@@ -1,0 +1,1667 @@
+{
+  "entries": [
+    {
+      "iconId": "5Zyw5qCHK25wYy_pmL_luIPvvIhDbG90aO-8iS53ZWJw",
+      "name": "阿布(Cloth)",
+      "location": "地图",
+      "primary": "NPC",
+      "secondary": "对话型"
+    },
+    {
+      "iconId": "5Zyw5qCHK25wYy_lt7TkuJzvvIhCYXJkb29u77yJLndlYnA",
+      "name": "巴东(Bardoon)",
+      "location": "地图",
+      "primary": "NPC",
+      "secondary": "对话型"
+    },
+    {
+      "iconId": "5Zyw5qCHK25wYy_nmb3oibLlpKvkurrvvIhXaGl0ZSBMYWR577yJLndlYnA",
+      "name": "白色夫人(White Lady)",
+      "location": "地图",
+      "primary": "NPC",
+      "secondary": "任务型"
+    },
+    {
+      "iconId": "5Zyw5qCHK25wYy_luIPolb7loZTvvIhCcmV0dGHvvIkud2VicA",
+      "name": "布蕾塔(Bretta)",
+      "location": "地图",
+      "primary": "NPC",
+      "secondary": "对话型"
+    },
+    {
+      "iconId": "icon_1785483728809_sl9hbu",
+      "name": "布鲁姆-深巢",
+      "location": "地图",
+      "primary": "NPC",
+      "secondary": "任务型"
+    },
+    {
+      "iconId": "icon_1785403195308_f58xvu",
+      "name": "苍白潜伏者(Pale Lurker)",
+      "location": "地图",
+      "primary": "NPC",
+      "secondary": "奖励型"
+    },
+    {
+      "iconId": "icon_1785401943917_10gapu",
+      "name": "苍白之王(The Pale King)",
+      "location": "地图",
+      "primary": "NPC",
+      "secondary": "奖励型"
+    },
+    {
+      "iconId": "5Zyw5qCHK25wYy_lv4_mgpTluIjlkInlkInvvIhDb25mZXNzb3IgSmlqae-8iS53ZWJw",
+      "name": "忏悔师吉吉(Confessor Jiji)",
+      "location": "地图",
+      "primary": "NPC",
+      "secondary": "商人"
+    },
+    {
+      "iconId": "5Zyw5qCHK25wYy_omavniLfniLfvvIhHcnViZmF0aGVy77yJLndlYnA",
+      "name": "虫爷爷(Grubfather)",
+      "location": "地图",
+      "primary": "NPC",
+      "secondary": "对话型"
+    },
+    {
+      "iconId": "5Zyw5qCHK25wYy_ov6rkuIfvvIhEaXZpbmXvvIkud2VicA",
+      "name": "迪万(Divine)",
+      "location": "地图",
+      "primary": "NPC",
+      "secondary": "商人"
+    },
+    {
+      "iconId": "icon_1785469745958_xjg2yy",
+      "name": "第二次救左特",
+      "location": "地图",
+      "primary": "NPC",
+      "secondary": "任务型"
+    },
+    {
+      "iconId": "icon_1785469745960_np2xoe",
+      "name": "第一次救左特",
+      "location": "地图",
+      "primary": "NPC",
+      "secondary": "任务型"
+    },
+    {
+      "iconId": "5Zyw5qCHK25wYy9waW5fdHJhbV9sb2NhdGlvbiAjNjM4Mi5wbmc",
+      "name": "电车(Tram)",
+      "location": "地图 + 弹窗",
+      "primary": "地点",
+      "secondary": "电车"
+    },
+    {
+      "iconId": "5Zyw5qCHK25wYy_pqqjpkonljKDvvIhOYWlsc21pdGjvvIkud2VicA",
+      "name": "钉子匠(Nailsmith)",
+      "location": "地图",
+      "primary": "NPC",
+      "secondary": "任务型"
+    },
+    {
+      "iconId": "5Zyw5qCHK25wYy_onILlt6LlpbPnjovnu7Tmlq_luJXvvIhIaXZlIFF1ZWVuIFZlc3Bh77yJLndlYnA",
+      "name": "蜂巢女王维斯帕(Hive Queen Vespa)",
+      "location": "地图",
+      "primary": "NPC",
+      "secondary": "对话型"
+    },
+    {
+      "iconId": "5Zyw5qCHK25wYy_pkqLpk4HkuYvprYLlkInmganvvIhTdGVlbCBTb3VsIEppbm7vvIkud2VicA",
+      "name": "钢铁之魂吉恩(Steel Soul Jinn)",
+      "location": "地图",
+      "primary": "NPC",
+      "secondary": "商人"
+    },
+    {
+      "iconId": "5Zyw5qCHK25wYy_pqqjpkonlpKfluIjlpaXnvZfvvIhOYWlsbWFzdGVyIE9yb--8iS53ZWJw",
+      "name": "骨钉大师奥罗(Nailmaster Oro)",
+      "location": "地图",
+      "primary": "NPC",
+      "secondary": "奖励型"
+    },
+    {
+      "iconId": "5Zyw5qCHK25wYy_pqqjpkonlpKfluIjpqazmiZjvvIhOYWlsbWFzdGVyIE1hdG_vvIkud2VicA",
+      "name": "骨钉大师马托(Nailmaster Mato)",
+      "location": "地图",
+      "primary": "NPC",
+      "secondary": "奖励型"
+    },
+    {
+      "iconId": "5Zyw5qCHK25wYy_pqqjpkonlpKfluIjluK3lpaXvvIhOYWlsbWFzdGVyIFNoZW_vvIkud2VicA",
+      "name": "骨钉大师席奥(Nailmaster Sheo)",
+      "location": "地图",
+      "primary": "NPC",
+      "secondary": "奖励型"
+    },
+    {
+      "iconId": "5Zyw5qCHK25wYy_miqTnrKbniLHlpb3ogIXokKjpsoHlt7TvvIhDaGFybSBMb3ZlciBTYWx1YnJh77yJLnBuZw",
+      "name": "护符爱好者萨鲁巴(Charm Lover Salubra)",
+      "location": "地图",
+      "primary": "NPC",
+      "secondary": "商人"
+    },
+    {
+      "iconId": "5Zyw5qCHK25wYy_ngbDoibLlk4DmgrzogIXvvIhHcmV5IE1vdXJuZXLvvIkud2VicA",
+      "name": "灰色哀悼者(Grey Mourner)",
+      "location": "地图",
+      "primary": "NPC",
+      "secondary": "任务型"
+    },
+    {
+      "iconId": "5Zyw5qCHK25wYy_mlZnluIjojqvor7rokpnvvIhNb25vbW9uIHRoZSBUZWFjaGVy77yJLnBuZw",
+      "name": "教师莫诺蒙(Monomon the Teacher)",
+      "location": "地图",
+      "primary": "NPC",
+      "secondary": "任务型"
+    },
+    {
+      "iconId": "5Zyw5qCHK25wYy_mn6_lsLzms5XvvIhDb3JuaWZlcu-8iS53ZWJw",
+      "name": "柯尼法(Cornifer)",
+      "location": "地图",
+      "primary": "地点",
+      "secondary": "地图"
+    },
+    {
+      "iconId": "5Zyw5qCHK25wYy_lpY7oi6XvvIhRdWlycmVs77yJMi53ZWJw",
+      "name": "奎若(Quirrel)",
+      "location": "地图",
+      "primary": "NPC",
+      "secondary": "对话型"
+    },
+    {
+      "iconId": "5Zyw5qCHK25wYy_ok53oibLkuYvlrZDkuZTlsLzvvIhCbHVlIENoaWxkIEpvbmnvvIkud2VicA",
+      "name": "蓝色之子乔尼(Blue Child Joni)",
+      "location": "地图",
+      "primary": "NPC",
+      "secondary": "奖励型"
+    },
+    {
+      "iconId": "5Zyw5qCHK25wYy_njI7kurrvvIhUaGUgSHVudGVy77yJLndlYnA",
+      "name": "猎人(The Hunter)",
+      "location": "地图",
+      "primary": "NPC",
+      "secondary": "任务型"
+    },
+    {
+      "iconId": "popup:icons/地标+npc/鹿角虫车站图标.png",
+      "name": "鹿角虫道图标",
+      "location": "弹窗",
+      "primary": "",
+      "secondary": ""
+    },
+    {
+      "iconId": "5Zyw5qCHK25wYy_njpvkuL3ojo7vvIhNYXJpc3Nh77yJLndlYnA",
+      "name": "玛丽莎(Marissa)",
+      "location": "地图",
+      "primary": "NPC",
+      "secondary": "对话型"
+    },
+    {
+      "iconId": "5Zyw5qCHK25wYy_nsbPmi4nvvIhNeWxh77yJLndlYnA",
+      "name": "米拉(Myla)",
+      "location": "地图",
+      "primary": "NPC",
+      "secondary": "对话型"
+    },
+    {
+      "iconId": "5Zyw5qCHK25wYy_pnaLlhbfliLbkvZzluIjvvIhNYXNrIE1ha2Vy77yJLndlYnA",
+      "name": "面具制作师(Mask Maker)",
+      "location": "地图",
+      "primary": "NPC",
+      "secondary": "对话型"
+    },
+    {
+      "iconId": "5Zyw5qCHK25wYy_lsLzlp4bvvIhOeW1t77yJLndlYnA",
+      "name": "明子(Nymm)",
+      "location": "地图",
+      "primary": "NPC",
+      "secondary": "奖励型"
+    },
+    {
+      "iconId": "5Zyw5qCHK25wYy_omJHoj4flhYjnlJ_vvIhNaXN0ZXIgTXVzaHJvb23vvIkud2VicA",
+      "name": "蘑菇先生(Mister Mushroom)",
+      "location": "地图",
+      "primary": "NPC",
+      "secondary": "蘑菇先生"
+    },
+    {
+      "iconId": "5Zyw5qCHK25wYy_lj5vlvpLkuYvlpbPvvIhUaGUgVHJhaXRvcnPigJkgQ2hpbGTvvIkud2VicA",
+      "name": "叛徒之女(The Traitors’ Child)",
+      "location": "地图",
+      "primary": "NPC",
+      "secondary": "任务型"
+    },
+    {
+      "iconId": "5Zyw5qCHK25wYy_nkZ7nu7TlhYvvvIhSZXZla--8iS53ZWJw",
+      "name": "瑞维克(Revek)",
+      "location": "地图",
+      "primary": "NPC",
+      "secondary": "对话型"
+    },
+    {
+      "iconId": "popup:icons/地标+npc/生命血茧图标.png",
+      "name": "生命血茧图标",
+      "location": "弹窗",
+      "primary": "",
+      "secondary": ""
+    },
+    {
+      "iconId": "5Zyw5qCHK25wYy_po5_ohb_ogIXvvIhMZWcgRWF0ZXLvvIkud2VicA",
+      "name": "食腿者(Leg Eater)",
+      "location": "地图",
+      "primary": "NPC",
+      "secondary": "商人"
+    },
+    {
+      "iconId": "5Zyw5qCHK25wYy_lrojmnJvogIXljaLnkZ7mganvvIhMdXJpZW4gdGhlIFdhdGNoZXLvvIkucG5n",
+      "name": "守望者卢瑞恩(Lurien the Watcher)",
+      "location": "地图",
+      "primary": "NPC",
+      "secondary": "任务型"
+    },
+    {
+      "iconId": "5Zyw5qCHK25wYy_mlq_ojrHvvIhTbHnvvIkud2VicA",
+      "name": "斯莱(Sly)",
+      "location": "地图",
+      "primary": "NPC",
+      "secondary": "商人"
+    },
+    {
+      "iconId": "5Zyw5qCHK25wYy_oi5Tol5PpooToqIDlrrbvvIhNb3NzIFByb3BoZXTvvIkud2VicA",
+      "name": "苔藓预言家(Moss Prophet)",
+      "location": "地图",
+      "primary": "NPC",
+      "secondary": "对话型"
+    },
+    {
+      "iconId": "5Zyw5qCHK25wYy_lm77lhYvvvIhUdWvvvIkud2VicA",
+      "name": "图克(Tuk)",
+      "location": "地图",
+      "primary": "NPC",
+      "secondary": "商人"
+    },
+    {
+      "iconId": "5Zyw5qCHK25wYy_nu7TmtJvvvIhXaWxsb2jvvIkud2VicA",
+      "name": "维洛(Willoh)",
+      "location": "地图",
+      "primary": "NPC",
+      "secondary": "对话型"
+    },
+    {
+      "iconId": "popup:icons/地标+npc/温泉图标.png",
+      "name": "温泉图标",
+      "location": "弹窗",
+      "primary": "",
+      "secondary": ""
+    },
+    {
+      "iconId": "5Zyw5qCHK25wYy_mlofnianmkJzlr7vogIXph4zlp4bvvIhSZWxpYyBTZWVrZXIgTGVtbe-8iS53ZWJw",
+      "name": "文物搜寻者里姆(Relic Seeker Lemm)",
+      "location": "地图",
+      "primary": "NPC",
+      "secondary": "商人"
+    },
+    {
+      "iconId": "5Zyw5qCHK25wYy_onJfniZvokKjmu6HvvIhTbmFpbCBTaGFtYW7vvIkud2VicA",
+      "name": "蜗牛萨满(Snail Shaman)",
+      "location": "地图",
+      "primary": "NPC",
+      "secondary": "奖励型"
+    },
+    {
+      "iconId": "5Zyw5qCHK25wYy_lkLjomavpmpDlo6vvvIhGbHVrZSBIZXJtaXTvvIkud2VicA",
+      "name": "吸虫隐士(Fluke Hermit)",
+      "location": "地图",
+      "primary": "NPC",
+      "secondary": "对话型"
+    },
+    {
+      "iconId": "5Zyw5qCHK25wYy_lhYjnn6XvvIhTZWVy77yJLndlYnA",
+      "name": "先知(Seer)",
+      "location": "地图",
+      "primary": "NPC",
+      "secondary": "任务型"
+    },
+    {
+      "iconId": "5Zyw5qCHK25wYy_lsI_mhJrkurrvvIhMaXR0bGUgRm9vbO-8iS53ZWJw",
+      "name": "小愚人(Little Fool)",
+      "location": "地图",
+      "primary": "NPC",
+      "secondary": "商人"
+    },
+    {
+      "iconId": "5Zyw5qCHK25wYy_lr7vnpZ7ogIXvvIhHb2RzZWVrZXLvvIkud2VicA",
+      "name": "寻神者(Godseeker)",
+      "location": "地图",
+      "primary": "NPC",
+      "secondary": "任务型"
+    },
+    {
+      "iconId": "5Zyw5qCHK25wYy_ph47lhb3otavmi4nvvIhIZXJyYWggdGhlIEJlYXN077yJLnBuZw",
+      "name": "野兽赫拉(Herrah the Beast)",
+      "location": "地图",
+      "primary": "NPC",
+      "secondary": "任务型"
+    },
+    {
+      "iconId": "5Zyw5qCHK25wYy_kvIrloZ7lsJTovr7vvIhJc2VsZGHvvIkud2VicA",
+      "name": "伊塞尔达(Iselda)",
+      "location": "地图",
+      "primary": "NPC",
+      "secondary": "商人"
+    },
+    {
+      "iconId": "5Zyw5qCHK25wYy_pk7booYzlrrbnsbPojonotJ3lsJTvvIhNaWxsaWJlbGxlIHRoZSBCYW5rZXLvvIkud2VicA",
+      "name": "银行家米莉贝利(Millibelle the Banker)",
+      "location": "地图",
+      "primary": "NPC",
+      "secondary": "商人"
+    },
+    {
+      "iconId": "5Zyw5qCHK25wYy_msLjmgZLnmoToib7nsbPkuL3loZTvvIhFdGVybmFsIEVtaWxpdGlh77yJLndlYnA",
+      "name": "永恒的艾米丽塔(Eternal Emilitia)",
+      "location": "地图",
+      "primary": "NPC",
+      "secondary": "对话型"
+    },
+    {
+      "iconId": "5Zyw5qCHK25wYy_plb_mpIXlm77moIcucG5n",
+      "name": "长椅",
+      "location": "地图 + 弹窗",
+      "primary": "地点",
+      "secondary": "长椅"
+    },
+    {
+      "iconId": "5Zyw5qCHK25wYy_liqnkuqflo6vvvIhNaWR3aWZl77yJLndlYnA",
+      "name": "助产士(Midwife)",
+      "location": "地图",
+      "primary": "NPC",
+      "secondary": "对话型"
+    },
+    {
+      "iconId": "5oqk56ymK-aKpOespuanveWbvuaghy_lt7TlvrflsJTkuYvlo7PvvIhCYWxkdXIgU2hlbGzvvIkucG5n",
+      "name": "巴德尔之壳(Baldur Shell)",
+      "location": "地图",
+      "primary": "技能",
+      "secondary": "护符"
+    },
+    {
+      "iconId": "5oqk56ymK-aKpOespuanveWbvuaghy_nvJbnu4fogIXkuYvmrYzvvIhXZWF2ZXJzb25n77yJLnBuZw",
+      "name": "编织者之歌(Weaversong)",
+      "location": "地图",
+      "primary": "技能",
+      "secondary": "护符"
+    },
+    {
+      "iconId": "popup:icons/护符+护符槽图标/沉重之击（Heavy Blow）.png",
+      "name": "沉重之击",
+      "location": "弹窗",
+      "primary": "技能",
+      "secondary": "护符"
+    },
+    {
+      "iconId": "5oqk56ymK-aKpOespuanveWbvuaghy_lhrLliLrlpKfluIjvvIhEYXNobWFzdGVy77yJLnBuZw",
+      "name": "冲刺大师(Dashmaster)",
+      "location": "地图",
+      "primary": "技能",
+      "secondary": "护符"
+    },
+    {
+      "iconId": "popup:icons/护符+护符槽图标/格林之子（Grimmchild）2.png",
+      "name": "第二阶段",
+      "location": "弹窗",
+      "primary": "技能",
+      "secondary": "护符"
+    },
+    {
+      "iconId": "popup:icons/护符+护符槽图标/格林之子（Grimmchild）3.png",
+      "name": "第三阶段",
+      "location": "弹窗",
+      "primary": "技能",
+      "secondary": "护符"
+    },
+    {
+      "iconId": "popup:icons/护符+护符槽图标/格林之子（Grimmchild）4.png",
+      "name": "第四阶段",
+      "location": "弹窗",
+      "primary": "技能",
+      "secondary": "护符"
+    },
+    {
+      "iconId": "popup:icons/护符+护符槽图标/格林之子（Grimmchild）1.png",
+      "name": "第一阶段",
+      "location": "弹窗",
+      "primary": "技能",
+      "secondary": "护符"
+    },
+    {
+      "iconId": "5oqk56ymK-aKpOespuanveWbvuaghy_lj5HlhYnlrZDlrqvvvIhHbG93aW5nIFdvbWLvvIkucG5n",
+      "name": "发光子宫(Glowing Womb)",
+      "location": "地图",
+      "primary": "技能",
+      "secondary": "护符"
+    },
+    {
+      "iconId": "5oqk56ymK-aKpOespuanveWbvuaghy_ms5XmnK_mia3mm7LogIXvvIhTcGVsbCBUd2lzdGVy77yJLnBuZw",
+      "name": "法术扭曲者(Spell Twister)",
+      "location": "地图",
+      "primary": "技能",
+      "secondary": "护符"
+    },
+    {
+      "iconId": "5oqk56ymK-aKpOespuanveWbvuaghy_pmLLlvqHogIXnurnnq6DvvIhEZWZlbmRlcidzIENyZXN077yJLnBuZw",
+      "name": "防御者纹章(Defender's Crest)",
+      "location": "地图",
+      "primary": "技能",
+      "secondary": "护符"
+    },
+    {
+      "iconId": "popup:icons/护符+护符槽图标/飞毛腿（Sprintmaster）.png",
+      "name": "飞毛腿",
+      "location": "弹窗",
+      "primary": "技能",
+      "secondary": "护符"
+    },
+    {
+      "iconId": "5oqk56ymK-aKpOespuanveWbvuaghy_plIvliKnkuYvlvbHvvIhTaGFycCBTaGFkb3fvvIkucG5n",
+      "name": "锋利之影(Sharp Shadow)",
+      "location": "地图",
+      "primary": "技能",
+      "secondary": "护符"
+    },
+    {
+      "iconId": "5oqk56ymK-aKpOespuanveWbvuaghy_onILlt6LkuYvooYDvvIhIaXZlYmxvb2TvvIkucG5n",
+      "name": "蜂巢之血(Hiveblood)",
+      "location": "地图",
+      "primary": "技能",
+      "secondary": "护符"
+    },
+    {
+      "iconId": "popup:icons/护符+护符槽图标/蜂群集结（Gathering Swarm）.png",
+      "name": "蜂群集结",
+      "location": "弹窗",
+      "primary": "技能",
+      "secondary": "护符"
+    },
+    {
+      "iconId": "popup:icons/护符+护符槽图标/坚硬外壳（Stalwart Shell）.png",
+      "name": "坚硬外壳",
+      "location": "弹窗",
+      "primary": "技能",
+      "secondary": "护符"
+    },
+    {
+      "iconId": "popup:icons/护符+护符槽图标/骨钉大师的荣耀（Nailmaster's Glory）.png",
+      "name": "骨钉大师的荣耀",
+      "location": "弹窗",
+      "primary": "技能",
+      "secondary": "护符"
+    },
+    {
+      "iconId": "popup:icons/护符+护符槽图标/坚固力量（Unbreakable Strength）.png",
+      "name": "坚固力量",
+      "location": "弹窗",
+      "primary": "技能",
+      "secondary": "护符"
+    },
+    {
+      "iconId": "popup:icons/护符+护符槽图标/坚固贪婪（Unbreakable Greed）.png",
+      "name": "坚固贪婪",
+      "location": "弹窗",
+      "primary": "技能",
+      "secondary": "护符"
+    },
+    {
+      "iconId": "popup:icons/护符+护符槽图标/坚固心脏（Unbreakable Heart）.png",
+      "name": "坚固心脏",
+      "location": "弹窗",
+      "primary": "技能",
+      "secondary": "护符"
+    },
+    {
+      "iconId": "5oqk56ymK-aKpOespuanveWbvuaghy_pqoTlgrLljbDorrDvvIhNYXJrIG9mIFByaWRl77yJLnBuZw",
+      "name": "骄傲印记(Mark of Pride)",
+      "location": "地图",
+      "primary": "技能",
+      "secondary": "护符"
+    },
+    {
+      "iconId": "5oqk56ymK-aKpOespuanveWbvuaghy_oi6bnl5vojYbmo5jvvIhUaG9ybnMgb2YgQWdvbnnvvIkucG5n",
+      "name": "苦痛荆棘(Thorns of Agony)",
+      "location": "地图",
+      "primary": "技能",
+      "secondary": "护符"
+    },
+    {
+      "iconId": "popup:icons/护符+护符槽图标/快速聚集（Quick Focus）.png",
+      "name": "快速聚集",
+      "location": "弹窗",
+      "primary": "技能",
+      "secondary": "护符"
+    },
+    {
+      "iconId": "5oqk56ymK-aKpOespuanveWbvuaghy_lv6vpgJ_liojnoI3vvIhRdWljayBTbGFzaO-8iS5wbmc",
+      "name": "快速劈砍(Quick Slash)",
+      "location": "地图",
+      "primary": "技能",
+      "secondary": "护符"
+    },
+    {
+      "iconId": "5oqk56ymK-aKpOespuanveWbvuaghy_ngbXprYLmjZXmiYvvvIhTb3VsIENhdGNoZXLvvIkucG5n",
+      "name": "灵魂捕手(Soul Catcher)",
+      "location": "地图",
+      "primary": "技能",
+      "secondary": "护符"
+    },
+    {
+      "iconId": "5oqk56ymK-aKpOespuanveWbvuaghy_moqbkuYvnm77vvIhEcmVhbXNoaWVsZO-8iS5wbmc",
+      "name": "梦之盾(Dreamshield)",
+      "location": "地图",
+      "primary": "技能",
+      "secondary": "护符"
+    },
+    {
+      "iconId": "5oqk56ymK-aKpOespuanveWbvuaghy_omJHoj4flraLlrZDvvIhTcG9yZSBTaHJvb23vvIkucG5n",
+      "name": "蘑菇孢子(Spore Shroom)",
+      "location": "地图",
+      "primary": "技能",
+      "secondary": "护符"
+    },
+    {
+      "iconId": "5oqk56ymK-aKpOespuanveWbvuaghy_kuZTlsLznmoTnpZ3npo_vvIhKb25pJ3MgQmxlc3NpbmfvvIkucG5n",
+      "name": "乔尼的祝福(Joni's Blessing)",
+      "location": "地图",
+      "primary": "技能",
+      "secondary": "护符"
+    },
+    {
+      "iconId": "popup:icons/护符+护符槽图标/任性的指南针（Wayward Compass）.png",
+      "name": "任性的指南针",
+      "location": "弹窗",
+      "primary": "技能",
+      "secondary": "护符"
+    },
+    {
+      "iconId": "popup:icons/护符+护符槽图标/萨满之石（Shaman Stone）.png",
+      "name": "萨满之石",
+      "location": "弹窗",
+      "primary": "技能",
+      "secondary": "护符"
+    },
+    {
+      "iconId": "5oqk56ymK-aKpOespuanveWbvuaghy_mt7HluqbogZrpm4bvvIhEZWVwIEZvY3Vz77yJLnBuZw",
+      "name": "深度聚集(Deep Focus)",
+      "location": "地图",
+      "primary": "技能",
+      "secondary": "护符"
+    },
+    {
+      "iconId": "5oqk56ymK-aKpOespuanveWbvuaghy_nlJ_lkb3ooYDmoLjlv4PvvIhMaWZlYmxvb2QgQ29yZe-8iS5wbmc",
+      "name": "生命血核心(Lifeblood Core)",
+      "location": "地图",
+      "primary": "技能",
+      "secondary": "护符"
+    },
+    {
+      "iconId": "popup:icons/护符+护符槽图标/生命血之心（Lifeblood Heart）.png",
+      "name": "生命血之心",
+      "location": "弹窗",
+      "primary": "技能",
+      "secondary": "护符"
+    },
+    {
+      "iconId": "5oqk56ymK-aKpOespuanveWbvuaghy_lmazprYLogIXvvIhTb3VsIEVhdGVy77yJLnBuZw",
+      "name": "噬魂者(Soul Eater)",
+      "location": "地图",
+      "primary": "技能",
+      "secondary": "护符"
+    },
+    {
+      "iconId": "popup:icons/护符+护符槽图标/蜕变挽歌（Grubberfly's Elegy）.png",
+      "name": "蜕变挽歌",
+      "location": "弹窗",
+      "primary": "技能",
+      "secondary": "护符"
+    },
+    {
+      "iconId": "5oqk56ymK-aKpOespuanveWbvuaghy_kuqHogIXkuYvmgJLvvIhGdXJ5IG9mIHRoZSBGYWxsZW7vvIkucG5n",
+      "name": "亡者之怒(Fury of the Fallen)",
+      "location": "地图",
+      "primary": "技能",
+      "secondary": "护符"
+    },
+    {
+      "iconId": "popup:icons/护符+护符槽图标/稳定之体（Steady Body）.png",
+      "name": "稳定之体",
+      "location": "弹窗",
+      "primary": "技能",
+      "secondary": "护符"
+    },
+    {
+      "iconId": "popup:icons/护符+护符槽图标/乌恩之形（Shape of Unn）.png",
+      "name": "乌恩之形(Shape of Unn)",
+      "location": "弹窗",
+      "primary": "技能",
+      "secondary": "护符"
+    },
+    {
+      "iconId": "popup:icons/护符+护符槽图标/无忧旋律（Carefree Melody）.png",
+      "name": "无忧旋律(Carefree Melody)",
+      "location": "弹窗",
+      "primary": "技能",
+      "secondary": "护符"
+    },
+    {
+      "iconId": "5oqk56ymK-aKpOespuanveWbvuaghy_oiJ7moqbogIXvvIhEcmVhbSBXaWVsZGVy77yJLnBuZw",
+      "name": "舞梦者（Dream Wielder）",
+      "location": "地图",
+      "primary": "技能",
+      "secondary": "护符"
+    },
+    {
+      "iconId": "5oqk56ymK-aKpOespuanveWbvuaghy_lkLjomavkuYvlt6LvvIhGbHVrZW5lc3TvvIkucG5n",
+      "name": "吸虫之巢(Flukenest)",
+      "location": "地图",
+      "primary": "技能",
+      "secondary": "护符"
+    },
+    {
+      "iconId": "popup:icons/护符+护符槽图标/修长之钉（Longnail）.png",
+      "name": "修长之钉",
+      "location": "弹窗",
+      "primary": "技能",
+      "secondary": "护符"
+    },
+    {
+      "iconId": "popup:icons/护符+护符槽图标/易碎力量（Fragile Strength）.png",
+      "name": "易碎力量",
+      "location": "弹窗",
+      "primary": "技能",
+      "secondary": "护符"
+    },
+    {
+      "iconId": "popup:icons/护符+护符槽图标/易碎贪婪（Fragile Greed）.png",
+      "name": "易碎贪婪",
+      "location": "弹窗",
+      "primary": "技能",
+      "secondary": "护符"
+    },
+    {
+      "iconId": "popup:icons/护符+护符槽图标/易碎心脏（Fragile Heart）.png",
+      "name": "易碎心脏",
+      "location": "弹窗",
+      "primary": "技能",
+      "secondary": "护符"
+    },
+    {
+      "iconId": "popup:icons/护符+护符槽图标/幼虫之歌（Grubsong）.png",
+      "name": "幼虫之歌",
+      "location": "弹窗",
+      "primary": "技能",
+      "secondary": "护符"
+    },
+    {
+      "iconId": "5oqA6IO9L-aal-W9seaKq-mjju-8iFNoYWRlIENsb2Fr77yJLnBuZw",
+      "name": "暗影披风(Shade Cloak)",
+      "location": "地图",
+      "primary": "技能",
+      "secondary": "位移能力"
+    },
+    {
+      "iconId": "5oqA6IO9L-aal-W9seS5i-mtgu-8iFNoYWRlIFNvdWzvvIkucG5n",
+      "name": "暗影之魂(Shade Soul)",
+      "location": "地图",
+      "primary": "技能",
+      "secondary": "法术"
+    },
+    {
+      "iconId": "5oqA6IO9L-W4neeOi-S5i-e_vO-8iE1vbmFyY2ggV2luZ3PvvIkucG5n",
+      "name": "帝王之翼(Monarch Wings)",
+      "location": "地图",
+      "primary": "技能",
+      "secondary": "位移能力"
+    },
+    {
+      "iconId": "5oqA6IO9L-ibvue_vOaKq-mjju-8iE1vdGh3aW5nIENsb2Fr77yJLnBuZw",
+      "name": "蛾翼披风(Mothwing Cloak)",
+      "location": "地图",
+      "primary": "技能",
+      "secondary": "位移能力"
+    },
+    {
+      "iconId": "5oqA6IO9L-WkjeS7h-S5i-mtgu-8iFZlbmdlZnVsIFNwaXJpdO-8iS5wbmc",
+      "name": "复仇之魂(Vengeful Spirit)",
+      "location": "地图",
+      "primary": "技能",
+      "secondary": "法术"
+    },
+    {
+      "iconId": "5oqA6IO9L-WajuWPq-W5veeBte-8iEhvd2xpbmcgV3JhaXRoc--8iS5wbmc",
+      "name": "嚎叫幽灵(Howling Wraiths)",
+      "location": "地图",
+      "primary": "技能",
+      "secondary": "法术"
+    },
+    {
+      "iconId": "5oqA6IO9L-m7keaal-mZjeS4tO-8iERlc2NlbmRpbmcgRGFya--8iS5wbmc",
+      "name": "黑暗降临(Descending Dark)",
+      "location": "地图",
+      "primary": "技能",
+      "secondary": "法术"
+    },
+    {
+      "iconId": "5oqA6IO9L-iNkuiKnOS_r-WGsu-8iERlc29sYXRlIERpdmXvvIkucG5n",
+      "name": "荒芜俯冲(Desolate Dive)",
+      "location": "地图",
+      "primary": "技能",
+      "secondary": "法术"
+    },
+    {
+      "iconId": "5oqA6IO9L-a3sea4iuWwluWVuO-8iEFieXNzIFNocmlla--8iS5wbmc",
+      "name": "深渊尖啸(Abyss Shriek)",
+      "location": "地图",
+      "primary": "技能",
+      "secondary": "法术"
+    },
+    {
+      "iconId": "5oqA6IO9L-awtOaZtuS5i-W_g--8iENyeXN0YWwgSGVhcnTvvIkucG5n",
+      "name": "水晶之心(Crystal Heart)",
+      "location": "地图",
+      "primary": "技能",
+      "secondary": "位移能力"
+    },
+    {
+      "iconId": "5oqA6IO9L-ies-iegueIqu-8iE1hbnRpcyBDbGF377yJLnBuZw",
+      "name": "螳螂爪(Mantis Claw)",
+      "location": "地图",
+      "primary": "技能",
+      "secondary": "位移能力"
+    },
+    {
+      "iconId": "5oqA6IO9L-S8iuaWr-eOm-eahOecvOazqu-8iElzbWEncyBUZWFy77yJLnBuZw",
+      "name": "伊思玛的眼泪(Isma's Tear)",
+      "location": "地图",
+      "primary": "技能",
+      "secondary": "位移能力"
+    },
+    {
+      "iconId": "popup:icons/剑技/冲刺劈砍（Dash Slash）.png",
+      "name": "冲刺劈砍(Dash Slash)",
+      "location": "弹窗",
+      "primary": "技能",
+      "secondary": "骨钉技艺"
+    },
+    {
+      "iconId": "popup:icons/剑技/强力劈砍（Great Slash）.png",
+      "name": "强力劈砍(Great Slash)",
+      "location": "弹窗",
+      "primary": "技能",
+      "secondary": "骨钉技艺"
+    },
+    {
+      "iconId": "popup:icons/剑技/旋风劈砍（Cyclone Slash）.png",
+      "name": "旋风劈砍(Cyclone Slash)",
+      "location": "弹窗",
+      "primary": "技能",
+      "secondary": "骨钉技艺"
+    },
+    {
+      "iconId": "popup:icons/商店商品/贝壳标记.webp",
+      "name": "贝壳标记",
+      "location": "弹窗",
+      "primary": "",
+      "secondary": "商店物品"
+    },
+    {
+      "iconId": "popup:icons/商店商品/成就-升天.png",
+      "name": "成就：升天",
+      "location": "弹窗",
+      "primary": "",
+      "secondary": ""
+    },
+    {
+      "iconId": "popup:icons/商店商品/纯粹骨钉.webp",
+      "name": "纯粹骨钉",
+      "location": "弹窗",
+      "primary": "",
+      "secondary": ""
+    },
+    {
+      "iconId": "popup:icons/商店商品/带螺纹的骨钉.webp",
+      "name": "带螺纹的骨钉",
+      "location": "弹窗",
+      "primary": "",
+      "secondary": ""
+    },
+    {
+      "iconId": "popup:icons/商店商品/锋利的骨钉.webp",
+      "name": "锋利的骨钉",
+      "location": "弹窗",
+      "primary": "",
+      "secondary": ""
+    },
+    {
+      "iconId": "popup:icons/商店商品/灵魂沼地.png",
+      "name": "解锁灵魂沼地",
+      "location": "弹窗",
+      "primary": "",
+      "secondary": ""
+    },
+    {
+      "iconId": "popup:icons/商店商品/觉醒的梦之钉.png",
+      "name": "觉醒的梦之钉",
+      "location": "弹窗",
+      "primary": "技能",
+      "secondary": "梦之钉能力"
+    },
+    {
+      "iconId": "popup:icons/商店商品/开槽的骨钉.webp",
+      "name": "开槽的骨钉",
+      "location": "弹窗",
+      "primary": "",
+      "secondary": ""
+    },
+    {
+      "iconId": "popup:icons/商店商品/梦之门.webp",
+      "name": "梦之门",
+      "location": "弹窗",
+      "primary": "技能",
+      "secondary": "梦之钉能力"
+    },
+    {
+      "iconId": "popup:icons/商店商品/萨鲁巴的祝福.webp",
+      "name": "萨鲁巴的祝福",
+      "location": "弹窗",
+      "primary": "技能",
+      "secondary": "其他能力"
+    },
+    {
+      "iconId": "popup:icons/商店商品/SHINING标记.webp",
+      "name": "闪亮标记",
+      "location": "弹窗",
+      "primary": "",
+      "secondary": ""
+    },
+    {
+      "iconId": "popup:icons/商店商品/商贩图针.png",
+      "name": "商人图标",
+      "location": "弹窗",
+      "primary": "",
+      "secondary": ""
+    },
+    {
+      "iconId": "popup:icons/商店商品/圣甲虫标记.webp",
+      "name": "圣甲虫标记",
+      "location": "弹窗",
+      "primary": "",
+      "secondary": ""
+    },
+    {
+      "iconId": "popup:icons/商店商品/TOKEN标记.webp",
+      "name": "铜币标记",
+      "location": "弹窗",
+      "primary": "",
+      "secondary": ""
+    },
+    {
+      "iconId": "popup:icons/商店商品/羽毛笔.webp",
+      "name": "羽毛笔",
+      "location": "弹窗",
+      "primary": "",
+      "secondary": ""
+    },
+    {
+      "iconId": "popup:icons/商店商品/战士之墓图针.png",
+      "name": "战士陵墓图标",
+      "location": "弹窗",
+      "primary": "",
+      "secondary": ""
+    },
+    {
+      "iconId": "5pS26ZuG54mpL2ludl9Mb3ZlX0tleSAjNTQwNy5wbmc",
+      "name": "爱之匙(Love Key)",
+      "location": "地图",
+      "primary": "收集物",
+      "secondary": "道具"
+    },
+    {
+      "iconId": "5pS26ZuG54mpL-iLjeeZveefv-efsy5wbmc",
+      "name": "苍白矿石(Pale Ore)",
+      "location": "地图 + 弹窗",
+      "primary": "收集物",
+      "secondary": "苍白矿石"
+    },
+    {
+      "iconId": "popup:icons/收集物/梦之树图标.png",
+      "name": "低语之根图标",
+      "location": "弹窗",
+      "primary": "",
+      "secondary": ""
+    },
+    {
+      "iconId": "popup:icons/收集物/典雅的钥匙.webp",
+      "name": "典雅的钥匙",
+      "location": "弹窗",
+      "primary": "收集物",
+      "secondary": "道具"
+    },
+    {
+      "iconId": "5pS26ZuG54mpL2ludl9pdGVtX18wMDAxX3RyYW1fcGFzcyAjNDkyMi5wbmc",
+      "name": "电车通行证(Tram Pass)",
+      "location": "地图",
+      "primary": "收集物",
+      "secondary": "道具"
+    },
+    {
+      "iconId": "5pS26ZuG54mpL2ludl9pdGVtX18wMDAyX3N0b3Jlcm9vbV9rZXkgIzU5MDMucG5n",
+      "name": "店主的钥匙(Shopkeeper's Key)",
+      "location": "地图",
+      "primary": "收集物",
+      "secondary": "道具"
+    },
+    {
+      "iconId": "5pS26ZuG54mpL2ludl9yYW5jaWRfZWdnICM1NDc0LnBuZw",
+      "name": "腐臭蛋(Rancid Egg)",
+      "location": "地图 + 弹窗",
+      "primary": "收集物",
+      "secondary": "腐臭蛋"
+    },
+    {
+      "iconId": "popup:icons/收集物/光蝇灯笼.webp",
+      "name": "光蝇灯笼",
+      "location": "弹窗",
+      "primary": "收集物",
+      "secondary": "道具"
+    },
+    {
+      "iconId": "5pS26ZuG54mpL2ludl9pdGVtX18wMDEwX0tpbmdzX2lkb2wgIzQ2NjQucG5n",
+      "name": "国王神像(King's Idol)",
+      "location": "地图 + 弹窗",
+      "primary": "收集物",
+      "secondary": "国王神像"
+    },
+    {
+      "iconId": "5pS26ZuG54mpL-WbveeOi-S5i-mtgi3lj7MucG5n",
+      "name": "国王之魂(Kingsoul)-右",
+      "location": "地图",
+      "primary": "收集物",
+      "secondary": "国王之魂"
+    },
+    {
+      "iconId": "5pS26ZuG54mpL-WbveeOi-S5i-mtgi3lt6YucG5n",
+      "name": "国王之魂(Kingsoul)-左",
+      "location": "地图",
+      "primary": "收集物",
+      "secondary": "国王之魂"
+    },
+    {
+      "iconId": "popup:icons/收集物/护符槽图标.png",
+      "name": "护符槽",
+      "location": "弹窗",
+      "primary": "收集物",
+      "secondary": "护符槽"
+    },
+    {
+      "iconId": "5pS26ZuG54mpL-aKpOespuanveWbvuaghy5wbmc",
+      "name": "护符槽",
+      "location": "地图",
+      "primary": "收集物",
+      "secondary": "护符槽"
+    },
+    {
+      "iconId": "5pS26ZuG54mpL2ludl9pdGVtX18wMDAxNF9ncmF2ZXlhcmRfa2V5ICM2NzU1LnBuZw",
+      "name": "简单钥匙(Simple Key)",
+      "location": "地图 + 弹窗",
+      "primary": "收集物",
+      "secondary": "简单钥匙"
+    },
+    {
+      "iconId": "5pS26ZuG54mpL-eBtemtgueijueJhy5wbmc",
+      "name": "容器碎片(Vessel Fragment)",
+      "location": "地图",
+      "primary": "收集物",
+      "secondary": "容器碎片"
+    },
+    {
+      "iconId": "5pS26ZuG54mpL2ludl9pdGVtX18wMDEzX3dhbmRlcmVycy1qb3VybmFsICM2NTIxLnBuZw",
+      "name": "漫游者日记(Wanderer's Journal)",
+      "location": "地图",
+      "primary": "收集物",
+      "secondary": "漫游者日记"
+    },
+    {
+      "iconId": "5pS26ZuG54mpL-aipuS5i-agkeWbvuaghy5wbmc",
+      "name": "低语之根(Whispering Root)",
+      "location": "地图",
+      "primary": "收集物",
+      "secondary": "低语之根"
+    },
+    {
+      "iconId": "5pS26ZuG54mpL-mdouWFt-eijueJhy5wbmc",
+      "name": "面具碎片(Mask Shard)",
+      "location": "地图 + 弹窗",
+      "primary": "收集物",
+      "secondary": "面具碎片"
+    },
+    {
+      "iconId": "popup:icons/收集物/灵魂碎片.png",
+      "name": "容器碎片",
+      "location": "弹窗",
+      "primary": "收集物",
+      "secondary": "容器碎片"
+    },
+    {
+      "iconId": "popup:icons/收集物/神秘蛋.webp",
+      "name": "神秘蛋",
+      "location": "弹窗",
+      "primary": "收集物",
+      "secondary": "神秘蛋"
+    },
+    {
+      "iconId": "5pS26ZuG54mpL2ludl9pdGVtX18wMDEyX2hhbGxvd25lc3Qtc2VhbCAjNTA0OS5wbmc",
+      "name": "圣巢印章(Hallownest Seal)",
+      "location": "地图 + 弹窗",
+      "primary": "收集物",
+      "secondary": "圣巢印章"
+    },
+    {
+      "iconId": "5pS26ZuG54mpL-W5vOiZq-Wbvuaghy5wbmc",
+      "name": "幼虫(Grubs)",
+      "location": "地图",
+      "primary": "收集物",
+      "secondary": "幼虫"
+    },
+    {
+      "iconId": "icon_1785985552640_y3ajsn",
+      "name": "城市纹章(City Crest)",
+      "location": "地图",
+      "primary": "收集物",
+      "secondary": "道具"
+    },
+    {
+      "iconId": "icon_1785996896672_ezsbsi",
+      "name": "虫长者(Elderbug)",
+      "location": "地图",
+      "primary": "NPC",
+      "secondary": "对话型"
+    },
+    {
+      "iconId": "asset_6Ieq5a6a5LmJL-WbveeOi-WNsOiusC53ZWJw",
+      "name": "国王印记(King's Brand)",
+      "location": "地图",
+      "primary": "收集物",
+      "secondary": "道具"
+    },
+    {
+      "iconId": "asset_6Ieq5a6a5LmJL-m5v-inkuiZq-i9puermeWbvuaghy5wbmc",
+      "name": "鹿角虫道(Old Stag)",
+      "location": "地图",
+      "primary": "地点",
+      "secondary": "鹿角虫道"
+    },
+    {
+      "iconId": "asset_6Ieq5a6a5LmJL-aipuS5i-mSieWtkC5wbmc",
+      "name": "梦之钉(Dream Nail)",
+      "location": "地图",
+      "primary": "技能",
+      "secondary": "梦之钉能力"
+    },
+    {
+      "iconId": "asset_6Ieq5a6a5LmJL-elnuenmOibiy53ZWJw",
+      "name": "神秘蛋(Arcane Egg)",
+      "location": "地图",
+      "primary": "收集物",
+      "secondary": "神秘蛋"
+    },
+    {
+      "iconId": "asset_6Ieq5a6a5LmJL-eUn-WRveihgOiMp-Wbvuaghy5wbmc",
+      "name": "生命血茧(Lifeblood Cocoon)",
+      "location": "地图",
+      "primary": "地点",
+      "secondary": "生命血茧"
+    },
+    {
+      "iconId": "asset_6Ieq5a6a5LmJL-a4qeazieWbvuaghy5wbmc",
+      "name": "温泉(Hot Spring)",
+      "location": "地图",
+      "primary": "地点",
+      "secondary": "温泉"
+    },
+    {
+      "iconId": "asset_6Ieq5a6a5LmJL-S5jOaBqe-8iFVubu-8iS53ZWJw",
+      "name": "乌恩(Unn)",
+      "location": "地图",
+      "primary": "NPC",
+      "secondary": "奖励型"
+    },
+    {
+      "iconId": "asset_6Ieq5a6a5LmJL-iZmuepuuS5i-W_g--8iFZvaWQgSGVhcnTvvIkucG5n",
+      "name": "虚空之心(Void Heart)",
+      "location": "地图",
+      "primary": "技能",
+      "secondary": "护符"
+    },
+    {
+      "iconId": "Qk9TUy_nmb3oibLpmLLlvqHogIXvvIhXaGl0ZSBEZWZlbmRlcu-8iS5wbmc",
+      "name": "白色防御者(White Defender)",
+      "location": "地图",
+      "primary": "Boss",
+      "secondary": "梦境Boss"
+    },
+    {
+      "iconId": "Qk9TUy_mrovnoLTlrrnlmajvvIhCcm9rZW4gVmVzc2Vs77yJLnBuZw",
+      "name": "残破容器(Broken Vessel)",
+      "location": "地图",
+      "primary": "Boss",
+      "secondary": "梦境Boss"
+    },
+    {
+      "iconId": "Qk9TUy_lpKflnovoi5Tol5PlhrLplIvogIXvvIhNYXNzaXZlIE1vc3MgQ2hhcmdlcu-8iS5wbmc",
+      "name": "大型苔藓冲锋者(Massive Moss Charger)",
+      "location": "地图",
+      "primary": "Boss",
+      "secondary": "非主线Boss"
+    },
+    {
+      "iconId": "Qk9TUy_nsqromavpmLLlvqHogIXvvIhEdW5nIERlZmVuZGVy77yJLnBuZw",
+      "name": "粪虫防御者(Dung Defender)",
+      "location": "地图",
+      "primary": "Boss",
+      "secondary": "主线Boss"
+    },
+    {
+      "iconId": "Qk9TUy_onILlt6LpqpHlo6vvvIhIaXZlIEtuaWdodO-8iS5wbmc",
+      "name": "蜂巢骑士(Hive Knight)",
+      "location": "地图",
+      "primary": "Boss",
+      "secondary": "非主线Boss"
+    },
+    {
+      "iconId": "Qk9TUy_ovpDlhYnvvIhUaGUgUmFkaWFuY2XvvIkucG5n",
+      "name": "辐光(The Radiance)",
+      "location": "地图",
+      "primary": "Boss",
+      "secondary": "主线Boss"
+    },
+    {
+      "iconId": "Qk9TUy_lrojmiqTogIXlpKfpu4TonILvvIhIb3JuZXQgUHJvdGVjdG9y77yJLnBuZw",
+      "name": "岗哨大黄蜂(Hornet Sentinel)",
+      "location": "地图",
+      "primary": "Boss",
+      "secondary": "主线Boss"
+    },
+    {
+      "iconId": "Qk9TUy_miIjluIPvvIhHb3Ji77yJLnBuZw",
+      "name": "戈布(Gorb)",
+      "location": "地图",
+      "primary": "Boss",
+      "secondary": "战士之梦Boss"
+    },
+    {
+      "iconId": "Qk9TUy_moLzmnpfkurLml4_lpKfluIjvvIhHcmltbWtpbiBNYXN0ZXLvvIkucG5n",
+      "name": "格林亲族大师(Grimmkin Master)",
+      "location": "地图",
+      "primary": "Boss",
+      "secondary": "非主线Boss"
+    },
+    {
+      "iconId": "Qk9TUy_moLzmnpfkurLml4_moqbprYfvvIhHcmltbWtpbiBOaWdodG1hcmXvvIkucG5n",
+      "name": "格林亲族梦魇(Grimmkin Nightmare)",
+      "location": "地图",
+      "primary": "Boss",
+      "secondary": "非主线Boss"
+    },
+    {
+      "iconId": "Qk9TUy_moLzpsoHlhbnkuYvmr43vvIhHcnV6IE1vdGhlcu-8iS53ZWJw",
+      "name": "格鲁兹之母(Gruz Mother)",
+      "location": "地图",
+      "primary": "Boss",
+      "secondary": "非主线Boss"
+    },
+    {
+      "iconId": "Qk9TUy_og6Hplb_ogIHvvIhFbGRlciBIde-8iS5wbmc",
+      "name": "胡长老(Elder Hu)",
+      "location": "地图",
+      "primary": "Boss",
+      "secondary": "战士之梦Boss"
+    },
+    {
+      "iconId": "Qk9TUy_ngbDoibLnjovlrZDlt6bnibnvvIhHcmV5IFByaW5jZSBab3Rl77yJLnBuZw",
+      "name": "灰色王子左特(Grey Prince Zote)",
+      "location": "地图",
+      "primary": "Boss",
+      "secondary": "梦境Boss"
+    },
+    {
+      "iconId": "Qk9TUy_liqDliKnlronvvIhHYWxpZW7vvIkucG5n",
+      "name": "加利安(Galien)",
+      "location": "地图",
+      "primary": "Boss",
+      "secondary": "战士之梦Boss"
+    },
+    {
+      "iconId": "Qk9TUy_lgYfpqpHlo6vvvIhGYWxzZSBLbmlnaHTvvIkucG5n",
+      "name": "假骑士(False Knight)",
+      "location": "地图",
+      "primary": "Boss",
+      "secondary": "主线Boss"
+    },
+    {
+      "iconId": "Qk9TUy_liaflm6Llm6Lplb_moLzmnpfvvIhUcm91cGUgTWFzdGVyIEdyaW1t77yJLnBuZw",
+      "name": "剧团团长格林(Troupe Master Grimm)",
+      "location": "地图",
+      "primary": "NPC",
+      "secondary": "任务型"
+    },
+    {
+      "iconId": "Qk9TUy_nqbrmtJ7pqpHlo6vvvIhUaGUgSG9sbG93IEtuaWdodO-8iS5wbmc",
+      "name": "空洞骑士(The Hollow Knight)",
+      "location": "地图",
+      "primary": "Boss",
+      "secondary": "主线Boss"
+    },
+    {
+      "iconId": "Qk9TUy_ngbXprYLlpKfluIjvvIhTb3VsIE1hc3Rlcu-8iS5wbmc",
+      "name": "灵魂大师(Soul Master)",
+      "location": "地图",
+      "primary": "Boss",
+      "secondary": "主线Boss"
+    },
+    {
+      "iconId": "Qk9TUy_pqazlsJTnqYbvvIhNYXJtde-8iS5wbmc",
+      "name": "马尔穆(Marmu)",
+      "location": "地图",
+      "primary": "Boss",
+      "secondary": "战士之梦Boss"
+    },
+    {
+      "iconId": "Qk9TUy_pqaznp5Hmlq_vvIhNYXJrb3Ro77yJLnBuZw",
+      "name": "马科斯(Markoth)",
+      "location": "地图",
+      "primary": "Boss",
+      "secondary": "战士之梦Boss"
+    },
+    {
+      "iconId": "Qk9TUy_moqbprYfkuYvnjovmoLzmnpfvvIhOaWdodG1hcmUgS2luZyBHcmltbe-8iS5wbmc",
+      "name": "梦魇之王格林(Nightmare King Grimm)",
+      "location": "地图",
+      "primary": "Boss",
+      "secondary": "非主线Boss"
+    },
+    {
+      "iconId": "Qk9TUy_or7rmlq_lhYvvvIhOb3Nr77yJLnBuZw",
+      "name": "诺斯克(Nosk)",
+      "location": "地图",
+      "primary": "Boss",
+      "secondary": "非主线Boss"
+    },
+    {
+      "iconId": "Qk9TUy_lj5vlvpLpoobkuLvvvIhUcmFpdG9yIExvcmTvvIkucG5n",
+      "name": "叛徒领主(Traitor Lord)",
+      "location": "地图",
+      "primary": "Boss",
+      "secondary": "主线Boss"
+    },
+    {
+      "iconId": "Qk9TUy_mlLbol4_lrrbvvIhUaGUgQ29sbGVjdG9y77yJLnBuZw",
+      "name": "收藏家(The Collector)",
+      "location": "地图",
+      "primary": "Boss",
+      "secondary": "非主线Boss"
+    },
+    {
+      "iconId": "Qk9TUy_lrojmiqTogIXlpKfpu4TonILvvIhIb3JuZXQgUHJvdGVjdG9y77yJLnBuZw",
+      "name": "守护者大黄蜂(Hornet Protector)",
+      "location": "地图",
+      "primary": "Boss",
+      "secondary": "主线Boss"
+    },
+    {
+      "iconId": "Qk9TUy_lrojmnJvogIXpqpHlo6vlm6LvvIhXYXRjaGVyIEtuaWdodHPvvIkud2VicA",
+      "name": "守望者骑士团(Watcher Knights)",
+      "location": "地图",
+      "primary": "Boss",
+      "secondary": "主线Boss"
+    },
+    {
+      "iconId": "Qk9TUy_msLTmmbblrojljavvvIhDcnlzdGFsIEd1YXJkaWFu77yJLnBuZw",
+      "name": "暴怒守卫(Enraged Guardian)",
+      "location": "地图",
+      "primary": "Boss",
+      "secondary": "非主线Boss"
+    },
+    {
+      "iconId": "Qk9TUy_msLTmmbblrojljavvvIhDcnlzdGFsIEd1YXJkaWFu77yJLnBuZw",
+      "name": "水晶守卫(Crystal Guardian)",
+      "location": "地图",
+      "primary": "Boss",
+      "secondary": "非主线Boss"
+    },
+    {
+      "iconId": "Qk9TUy_onrPonoLpoobkuLvvvIhNYW50aXMgTG9yZHPvvIkucG5n",
+      "name": "螳螂领主(Mantis Lords)",
+      "location": "地图",
+      "primary": "Boss",
+      "secondary": "主线Boss"
+    },
+    {
+      "iconId": "Qk9TUy_kuYzlp4bvvIhVdW11de-8iS5wbmc",
+      "name": "乌姆(Uumuu)",
+      "location": "地图",
+      "primary": "Boss",
+      "secondary": "主线Boss"
+    },
+    {
+      "iconId": "Qk9TUy_ml6DnnLzvvIhObyBFeWVz77yJLnBuZw",
+      "name": "无眼(No Eyes)",
+      "location": "地图",
+      "primary": "Boss",
+      "secondary": "战士之梦Boss"
+    },
+    {
+      "iconId": "Qk9TUy_lkLjomavkuYvmr43vvIhGbHVrZW1hcm3vvIkucG5n",
+      "name": "吸虫之母(Flukemarm)",
+      "location": "地图",
+      "primary": "Boss",
+      "secondary": "非主线Boss"
+    },
+    {
+      "iconId": "Qk9TUy_ouoHpg4HnmoTmr5vph4zlhYvvvIhCcm9vZGluZyBNYXdsZWvvvIkucG5n",
+      "name": "躁郁的毛里克(Brooding Mawlek)",
+      "location": "地图",
+      "primary": "Boss",
+      "secondary": "非主线Boss"
+    },
+    {
+      "iconId": "Qk9TUy_ms73oi6XvvIhYZXJv77yJLnBuZw",
+      "name": "泽若(Xero)",
+      "location": "地图",
+      "primary": "Boss",
+      "secondary": "战士之梦Boss"
+    },
+    {
+      "iconId": "custom_world_sense",
+      "name": "世界感知(World Sense)",
+      "location": "地图",
+      "primary": "技能",
+      "secondary": "其他能力"
+    },
+    {
+      "iconId": "custom_godtuner",
+      "name": "神明调谐器(Godtuner)",
+      "location": "地图",
+      "primary": "技能",
+      "secondary": "其他能力"
+    }
+  ],
+  "relations": [
+    {
+      "itemName": "苍白矿石(Pale Ore)",
+      "ownerIconId": "5Zyw5qCHK25wYy_omavniLfniLfvvIhHcnViZmF0aGVy77yJLndlYnA"
+    },
+    {
+      "itemName": "腐臭蛋",
+      "ownerIconId": "5Zyw5qCHK25wYy_omavniLfniLfvvIhHcnViZmF0aGVy77yJLndlYnA"
+    },
+    {
+      "itemName": "国王神像",
+      "ownerIconId": "5Zyw5qCHK25wYy_omavniLfniLfvvIhHcnViZmF0aGVy77yJLndlYnA"
+    },
+    {
+      "itemName": "面具碎片",
+      "ownerIconId": "5Zyw5qCHK25wYy_omavniLfniLfvvIhHcnViZmF0aGVy77yJLndlYnA"
+    },
+    {
+      "itemName": "圣巢印章",
+      "ownerIconId": "5Zyw5qCHK25wYy_omavniLfniLfvvIhHcnViZmF0aGVy77yJLndlYnA"
+    },
+    {
+      "itemName": "蜕变挽歌",
+      "ownerIconId": "5Zyw5qCHK25wYy_omavniLfniLfvvIhHcnViZmF0aGVy77yJLndlYnA"
+    },
+    {
+      "itemName": "幼虫之歌",
+      "ownerIconId": "5Zyw5qCHK25wYy_omavniLfniLfvvIhHcnViZmF0aGVy77yJLndlYnA"
+    },
+    {
+      "itemName": "坚固力量",
+      "ownerIconId": "5Zyw5qCHK25wYy_ov6rkuIfvvIhEaXZpbmXvvIkud2VicA"
+    },
+    {
+      "itemName": "坚固贪婪",
+      "ownerIconId": "5Zyw5qCHK25wYy_ov6rkuIfvvIhEaXZpbmXvvIkud2VicA"
+    },
+    {
+      "itemName": "坚固心脏",
+      "ownerIconId": "5Zyw5qCHK25wYy_ov6rkuIfvvIhEaXZpbmXvvIkud2VicA"
+    },
+    {
+      "itemName": "纯粹骨钉",
+      "ownerIconId": "5Zyw5qCHK25wYy_pqqjpkonljKDvvIhOYWlsc21pdGjvvIkud2VicA"
+    },
+    {
+      "itemName": "带螺纹的骨钉",
+      "ownerIconId": "5Zyw5qCHK25wYy_pqqjpkonljKDvvIhOYWlsc21pdGjvvIkud2VicA"
+    },
+    {
+      "itemName": "锋利的骨钉",
+      "ownerIconId": "5Zyw5qCHK25wYy_pqqjpkonljKDvvIhOYWlsc21pdGjvvIkud2VicA"
+    },
+    {
+      "itemName": "开槽的骨钉",
+      "ownerIconId": "5Zyw5qCHK25wYy_pqqjpkonljKDvvIhOYWlsc21pdGjvvIkud2VicA"
+    },
+    {
+      "itemName": "护符槽",
+      "ownerIconId": "5Zyw5qCHK25wYy_miqTnrKbniLHlpb3ogIXokKjpsoHlt7TvvIhDaGFybSBMb3ZlciBTYWx1YnJh77yJLnBuZw"
+    },
+    {
+      "itemName": "护符槽",
+      "ownerIconId": "Qk9TUy_liaflm6Llm6Lplb_moLzmnpfvvIhUcm91cGUgTWFzdGVyIEdyaW1t77yJLnBuZw"
+    },
+    {
+      "itemName": "快速聚集",
+      "ownerIconId": "5Zyw5qCHK25wYy_miqTnrKbniLHlpb3ogIXokKjpsoHlt7TvvIhDaGFybSBMb3ZlciBTYWx1YnJh77yJLnBuZw"
+    },
+    {
+      "itemName": "萨鲁巴的祝福",
+      "ownerIconId": "5Zyw5qCHK25wYy_miqTnrKbniLHlpb3ogIXokKjpsoHlt7TvvIhDaGFybSBMb3ZlciBTYWx1YnJh77yJLnBuZw"
+    },
+    {
+      "itemName": "萨满之石",
+      "ownerIconId": "5Zyw5qCHK25wYy_miqTnrKbniLHlpb3ogIXokKjpsoHlt7TvvIhDaGFybSBMb3ZlciBTYWx1YnJh77yJLnBuZw"
+    },
+    {
+      "itemName": "生命血之心",
+      "ownerIconId": "5Zyw5qCHK25wYy_miqTnrKbniLHlpb3ogIXokKjpsoHlt7TvvIhDaGFybSBMb3ZlciBTYWx1YnJh77yJLnBuZw"
+    },
+    {
+      "itemName": "稳定之体",
+      "ownerIconId": "5Zyw5qCHK25wYy_miqTnrKbniLHlpb3ogIXokKjpsoHlt7TvvIhDaGFybSBMb3ZlciBTYWx1YnJh77yJLnBuZw"
+    },
+    {
+      "itemName": "修长之钉",
+      "ownerIconId": "5Zyw5qCHK25wYy_miqTnrKbniLHlpb3ogIXokKjpsoHlt7TvvIhDaGFybSBMb3ZlciBTYWx1YnJh77yJLnBuZw"
+    },
+    {
+      "itemName": "第二阶段",
+      "ownerIconId": "Qk9TUy_liaflm6Llm6Lplb_moLzmnpfvvIhUcm91cGUgTWFzdGVyIEdyaW1t77yJLnBuZw"
+    },
+    {
+      "itemName": "第三阶段",
+      "ownerIconId": "Qk9TUy_liaflm6Llm6Lplb_moLzmnpfvvIhUcm91cGUgTWFzdGVyIEdyaW1t77yJLnBuZw"
+    },
+    {
+      "itemName": "第四阶段",
+      "ownerIconId": "Qk9TUy_liaflm6Llm6Lplb_moLzmnpfvvIhUcm91cGUgTWFzdGVyIEdyaW1t77yJLnBuZw"
+    },
+    {
+      "itemName": "第一阶段",
+      "ownerIconId": "Qk9TUy_liaflm6Llm6Lplb_moLzmnpfvvIhUcm91cGUgTWFzdGVyIEdyaW1t77yJLnBuZw"
+    },
+    {
+      "itemName": "易碎力量",
+      "ownerIconId": "5Zyw5qCHK25wYy_po5_ohb_ogIXvvIhMZWcgRWF0ZXLvvIkud2VicA"
+    },
+    {
+      "itemName": "易碎贪婪",
+      "ownerIconId": "5Zyw5qCHK25wYy_po5_ohb_ogIXvvIhMZWcgRWF0ZXLvvIkud2VicA"
+    },
+    {
+      "itemName": "易碎心脏",
+      "ownerIconId": "5Zyw5qCHK25wYy_po5_ohb_ogIXvvIhMZWcgRWF0ZXLvvIkud2VicA"
+    },
+    {
+      "itemName": "沉重之击",
+      "ownerIconId": "5Zyw5qCHK25wYy_mlq_ojrHvvIhTbHnvvIkud2VicA"
+    },
+    {
+      "itemName": "典雅的钥匙",
+      "ownerIconId": "5Zyw5qCHK25wYy_mlq_ojrHvvIhTbHnvvIkud2VicA"
+    },
+    {
+      "itemName": "飞毛腿",
+      "ownerIconId": "5Zyw5qCHK25wYy_mlq_ojrHvvIhTbHnvvIkud2VicA"
+    },
+    {
+      "itemName": "蜂群集结",
+      "ownerIconId": "5Zyw5qCHK25wYy_mlq_ojrHvvIhTbHnvvIkud2VicA"
+    },
+    {
+      "itemName": "坚硬外壳",
+      "ownerIconId": "5Zyw5qCHK25wYy_mlq_ojrHvvIhTbHnvvIkud2VicA"
+    },
+    {
+      "itemName": "腐臭蛋",
+      "ownerIconId": "5Zyw5qCHK25wYy_mlq_ojrHvvIhTbHnvvIkud2VicA"
+    },
+    {
+      "itemName": "骨钉大师的荣耀",
+      "ownerIconId": "5Zyw5qCHK25wYy_mlq_ojrHvvIhTbHnvvIkud2VicA"
+    },
+    {
+      "itemName": "光蝇灯笼",
+      "ownerIconId": "5Zyw5qCHK25wYy_mlq_ojrHvvIhTbHnvvIkud2VicA"
+    },
+    {
+      "itemName": "简单钥匙",
+      "ownerIconId": "5Zyw5qCHK25wYy_mlq_ojrHvvIhTbHnvvIkud2VicA"
+    },
+    {
+      "itemName": "面具碎片",
+      "ownerIconId": "5Zyw5qCHK25wYy_mlq_ojrHvvIhTbHnvvIkud2VicA"
+    },
+    {
+      "itemName": "容器碎片",
+      "ownerIconId": "5Zyw5qCHK25wYy_mlq_ojrHvvIhTbHnvvIkud2VicA"
+    },
+    {
+      "itemName": "苍白矿石",
+      "ownerIconId": "5Zyw5qCHK25wYy_lhYjnn6XvvIhTZWVy77yJLndlYnA"
+    },
+    {
+      "itemName": "成就：升天",
+      "ownerIconId": "5Zyw5qCHK25wYy_lhYjnn6XvvIhTZWVy77yJLndlYnA"
+    },
+    {
+      "itemName": "解锁灵魂沼地",
+      "ownerIconId": "5Zyw5qCHK25wYy_lhYjnn6XvvIhTZWVy77yJLndlYnA"
+    },
+    {
+      "itemName": "觉醒的梦之钉",
+      "ownerIconId": "5Zyw5qCHK25wYy_lhYjnn6XvvIhTZWVy77yJLndlYnA"
+    },
+    {
+      "itemName": "梦之门",
+      "ownerIconId": "5Zyw5qCHK25wYy_lhYjnn6XvvIhTZWVy77yJLndlYnA"
+    },
+    {
+      "itemName": "面具碎片",
+      "ownerIconId": "5Zyw5qCHK25wYy_lhYjnn6XvvIhTZWVy77yJLndlYnA"
+    },
+    {
+      "itemName": "容器碎片",
+      "ownerIconId": "5Zyw5qCHK25wYy_lhYjnn6XvvIhTZWVy77yJLndlYnA"
+    },
+    {
+      "itemName": "神秘蛋",
+      "ownerIconId": "5Zyw5qCHK25wYy_lhYjnn6XvvIhTZWVy77yJLndlYnA"
+    },
+    {
+      "itemName": "圣巢印章",
+      "ownerIconId": "5Zyw5qCHK25wYy_lhYjnn6XvvIhTZWVy77yJLndlYnA"
+    },
+    {
+      "itemName": "舞梦者",
+      "ownerIconId": "5Zyw5qCHK25wYy_lhYjnn6XvvIhTZWVy77yJLndlYnA"
+    },
+    {
+      "itemName": "贝壳标记",
+      "ownerIconId": "5Zyw5qCHK25wYy_kvIrloZ7lsJTovr7vvIhJc2VsZGHvvIkud2VicA"
+    },
+    {
+      "itemName": "低语之根图标",
+      "ownerIconId": "5Zyw5qCHK25wYy_kvIrloZ7lsJTovr7vvIhJc2VsZGHvvIkud2VicA"
+    },
+    {
+      "itemName": "电车图标",
+      "ownerIconId": "5Zyw5qCHK25wYy_kvIrloZ7lsJTovr7vvIhJc2VsZGHvvIkud2VicA"
+    },
+    {
+      "itemName": "鹿角虫道图标",
+      "ownerIconId": "5Zyw5qCHK25wYy_kvIrloZ7lsJTovr7vvIhJc2VsZGHvvIkud2VicA"
+    },
+    {
+      "itemName": "任性的指南针",
+      "ownerIconId": "5Zyw5qCHK25wYy_kvIrloZ7lsJTovr7vvIhJc2VsZGHvvIkud2VicA"
+    },
+    {
+      "itemName": "闪亮标记",
+      "ownerIconId": "5Zyw5qCHK25wYy_kvIrloZ7lsJTovr7vvIhJc2VsZGHvvIkud2VicA"
+    },
+    {
+      "itemName": "商人图标",
+      "ownerIconId": "5Zyw5qCHK25wYy_kvIrloZ7lsJTovr7vvIhJc2VsZGHvvIkud2VicA"
+    },
+    {
+      "itemName": "生命血茧图标",
+      "ownerIconId": "5Zyw5qCHK25wYy_kvIrloZ7lsJTovr7vvIhJc2VsZGHvvIkud2VicA"
+    },
+    {
+      "itemName": "圣甲虫标记",
+      "ownerIconId": "5Zyw5qCHK25wYy_kvIrloZ7lsJTovr7vvIhJc2VsZGHvvIkud2VicA"
+    },
+    {
+      "itemName": "铜币标记",
+      "ownerIconId": "5Zyw5qCHK25wYy_kvIrloZ7lsJTovr7vvIhJc2VsZGHvvIkud2VicA"
+    },
+    {
+      "itemName": "温泉图标",
+      "ownerIconId": "5Zyw5qCHK25wYy_kvIrloZ7lsJTovr7vvIhJc2VsZGHvvIkud2VicA"
+    },
+    {
+      "itemName": "羽毛笔",
+      "ownerIconId": "5Zyw5qCHK25wYy_kvIrloZ7lsJTovr7vvIhJc2VsZGHvvIkud2VicA"
+    },
+    {
+      "itemName": "战士陵墓图标",
+      "ownerIconId": "5Zyw5qCHK25wYy_kvIrloZ7lsJTovr7vvIhJc2VsZGHvvIkud2VicA"
+    },
+    {
+      "itemName": "长椅图标",
+      "ownerIconId": "5Zyw5qCHK25wYy_kvIrloZ7lsJTovr7vvIhJc2VsZGHvvIkud2VicA"
+    },
+    {
+      "itemName": "护符槽",
+      "ownerIconId": "5Zyw5qCHK25wYy_lsI_mhJrkurrvvIhMaXR0bGUgRm9vbO-8iS53ZWJw"
+    },
+    {
+      "itemName": "苍白矿石",
+      "ownerIconId": "5Zyw5qCHK25wYy_lsI_mhJrkurrvvIhMaXR0bGUgRm9vbO-8iS53ZWJw"
+    },
+    {
+      "itemName": "面具碎片",
+      "ownerIconId": "5Zyw5qCHK25wYy_luIPolb7loZTvvIhCcmV0dGHvvIkud2VicA"
+    }
+  ]
+}

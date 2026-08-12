@@ -1,0 +1,1244 @@
+[
+  {
+    "id": "Qk9TUy9iZXN0aWFyeV9fMDA3MV9naWFudC1ob3BwZXIgIzYwMTIucG5n",
+    "name": "bestiary__0071_giant-hopper #6012",
+    "file": "./icons/BOSS/bestiary__0071_giant-hopper%20%236012.png",
+    "category": "BOSS"
+  },
+  {
+    "id": "Qk9TUy9iZXN0aWFyeV9nZ19fMDAwN19wYWludG1hc3Rlci5wbmc",
+    "name": "bestiary_gg__0007_paintmaster",
+    "file": "./icons/BOSS/bestiary_gg__0007_paintmaster.png",
+    "category": "BOSS"
+  },
+  {
+    "id": "Qk9TUy9iZXN0aWFyeV9nZ19fMDAwOF9IS19wcmltZS5wbmc",
+    "name": "bestiary_gg__0008_HK_prime",
+    "file": "./icons/BOSS/bestiary_gg__0008_HK_prime.png",
+    "category": "BOSS"
+  },
+  {
+    "id": "Qk9TUy9iZXN0aWFyeV9oZWF2eV9tYW50aXNfZiAjNjY0NS5wbmc",
+    "name": "bestiary_heavy_mantis_f #6645",
+    "file": "./icons/BOSS/bestiary_heavy_mantis_f%20%236645.png",
+    "category": "BOSS"
+  },
+  {
+    "id": "Qk9TUy_kuYzlp4bvvIhVdW11de-8iS5wbmc",
+    "name": "乌姆（Uumuu）",
+    "file": "./icons/BOSS/%E4%B9%8C%E5%A7%86%EF%BC%88Uumuu%EF%BC%89.png",
+    "category": "BOSS"
+  },
+  {
+    "id": "Qk9TUy_kvJ_lpKfnmoTlt6bnibnvvIhab3RlIHRoZSBNaWdodHnvvIkud2VicA",
+    "name": "伟大的左特（Zote the Mighty）",
+    "file": "./icons/BOSS/%E4%BC%9F%E5%A4%A7%E7%9A%84%E5%B7%A6%E7%89%B9%EF%BC%88Zote%20the%20Mighty%EF%BC%89.webp",
+    "category": "BOSS"
+  },
+  {
+    "id": "Qk9TUy_kvJ_lpKfpqqjpkonotKTogIXmlq_ojrHvvIhHcmVhdCBOYWlsc2FnZSBTbHnvvIkucG5n",
+    "name": "伟大骨钉贤者斯莱（Great Nailsage Sly）",
+    "file": "./icons/BOSS/%E4%BC%9F%E5%A4%A7%E9%AA%A8%E9%92%89%E8%B4%A4%E8%80%85%E6%96%AF%E8%8E%B1%EF%BC%88Great%20Nailsage%20Sly%EF%BC%89.png",
+    "category": "BOSS"
+  },
+  {
+    "id": "Qk9TUy_lgYfpqpHlo6vvvIhGYWxzZSBLbmlnaHTvvIkucG5n",
+    "name": "假骑士（False Knight）",
+    "file": "./icons/BOSS/%E5%81%87%E9%AA%91%E5%A3%AB%EF%BC%88False%20Knight%EF%BC%89.png",
+    "category": "BOSS"
+  },
+  {
+    "id": "Qk9TUy_liaflm6Llm6Lplb_moLzmnpfvvIhUcm91cGUgTWFzdGVyIEdyaW1t77yJLnBuZw",
+    "name": "剧团团长格林（Troupe Master Grimm）",
+    "file": "./icons/BOSS/%E5%89%A7%E5%9B%A2%E5%9B%A2%E9%95%BF%E6%A0%BC%E6%9E%97%EF%BC%88Troupe%20Master%20Grimm%EF%BC%89.png",
+    "category": "BOSS"
+  },
+  {
+    "id": "Qk9TUy_liqDliKnlronvvIhHYWxpZW7vvIkucG5n",
+    "name": "加利安（Galien）",
+    "file": "./icons/BOSS/%E5%8A%A0%E5%88%A9%E5%AE%89%EF%BC%88Galien%EF%BC%89.png",
+    "category": "BOSS"
+  },
+  {
+    "id": "Qk9TUy_lj5vlvpLpoobkuLvvvIhUcmFpdG9yIExvcmTvvIkucG5n",
+    "name": "叛徒领主（Traitor Lord）",
+    "file": "./icons/BOSS/%E5%8F%9B%E5%BE%92%E9%A2%86%E4%B8%BB%EF%BC%88Traitor%20Lord%EF%BC%89.png",
+    "category": "BOSS"
+  },
+  {
+    "id": "Qk9TUy_lkLjomavkuYvmr43vvIhGbHVrZW1hcm3vvIkucG5n",
+    "name": "吸虫之母（Flukemarm）",
+    "file": "./icons/BOSS/%E5%90%B8%E8%99%AB%E4%B9%8B%E6%AF%8D%EF%BC%88Flukemarm%EF%BC%89.png",
+    "category": "BOSS"
+  },
+  {
+    "id": "Qk9TUy_lpI3ku4fonYfkuYvnjovvvIhWZW5nZWZseSBLaW5n77yJLndlYnA",
+    "name": "复仇蝇之王（Vengefly King）",
+    "file": "./icons/BOSS/%E5%A4%8D%E4%BB%87%E8%9D%87%E4%B9%8B%E7%8E%8B%EF%BC%88Vengefly%20King%EF%BC%89.webp",
+    "category": "BOSS"
+  },
+  {
+    "id": "Qk9TUy_lpKflnovoi5Tol5PlhrLplIvogIXvvIhNYXNzaXZlIE1vc3MgQ2hhcmdlcu-8iS5wbmc",
+    "name": "大型苔藓冲锋者（Massive Moss Charger）",
+    "file": "./icons/BOSS/%E5%A4%A7%E5%9E%8B%E8%8B%94%E8%97%93%E5%86%B2%E9%94%8B%E8%80%85%EF%BC%88Massive%20Moss%20Charger%EF%BC%89.png",
+    "category": "BOSS"
+  },
+  {
+    "id": "Qk9TUy_lpaXms6Lot6_ms6LvvIhPYmxvYmJsZXPvvIkud2VicA",
+    "name": "奥波路波（Oblobbles）",
+    "file": "./icons/BOSS/%E5%A5%A5%E6%B3%A2%E8%B7%AF%E6%B3%A2%EF%BC%88Oblobbles%EF%BC%89.webp",
+    "category": "BOSS"
+  },
+  {
+    "id": "Qk9TUy_lrojmiqTogIXlpKfpu4TonILvvIhIb3JuZXQgUHJvdGVjdG9y77yJLnBuZw",
+    "name": "守护者大黄蜂（Hornet Protector）",
+    "file": "./icons/BOSS/%E5%AE%88%E6%8A%A4%E8%80%85%E5%A4%A7%E9%BB%84%E8%9C%82%EF%BC%88Hornet%20Protector%EF%BC%89.png",
+    "category": "BOSS"
+  },
+  {
+    "id": "Qk9TUy_lrojmnJvogIXpqpHlo6vlm6LvvIhXYXRjaGVyIEtuaWdodHPvvIkud2VicA",
+    "name": "守望者骑士团（Watcher Knights）",
+    "file": "./icons/BOSS/%E5%AE%88%E6%9C%9B%E8%80%85%E9%AA%91%E5%A3%AB%E5%9B%A2%EF%BC%88Watcher%20Knights%EF%BC%89.webp",
+    "category": "BOSS"
+  },
+  {
+    "id": "Qk9TUy_miIjluIPvvIhHb3Ji77yJLnBuZw",
+    "name": "戈布（Gorb）",
+    "file": "./icons/BOSS/%E6%88%88%E5%B8%83%EF%BC%88Gorb%EF%BC%89.png",
+    "category": "BOSS"
+  },
+  {
+    "id": "Qk9TUy_mlLbol4_lrrbvvIhUaGUgQ29sbGVjdG9y77yJLnBuZw",
+    "name": "收藏家（The Collector）",
+    "file": "./icons/BOSS/%E6%94%B6%E8%97%8F%E5%AE%B6%EF%BC%88The%20Collector%EF%BC%89.png",
+    "category": "BOSS"
+  },
+  {
+    "id": "Qk9TUy_ml6DnnLzvvIhObyBFeWVz77yJLnBuZw",
+    "name": "无眼（No Eyes）",
+    "file": "./icons/BOSS/%E6%97%A0%E7%9C%BC%EF%BC%88No%20Eyes%EF%BC%89.png",
+    "category": "BOSS"
+  },
+  {
+    "id": "Qk9TUy_moLzmnpfkurLml4_lpKfluIjvvIhHcmltbWtpbiBNYXN0ZXLvvIkucG5n",
+    "name": "格林亲族大师（Grimmkin Master）",
+    "file": "./icons/BOSS/%E6%A0%BC%E6%9E%97%E4%BA%B2%E6%97%8F%E5%A4%A7%E5%B8%88%EF%BC%88Grimmkin%20Master%EF%BC%89.png",
+    "category": "BOSS"
+  },
+  {
+    "id": "Qk9TUy_moLzmnpfkurLml4_mlrDmiYvvvIhHcmltbWtpbiBOb3ZpY2XvvIkucG5n",
+    "name": "格林亲族新手（Grimmkin Novice）",
+    "file": "./icons/BOSS/%E6%A0%BC%E6%9E%97%E4%BA%B2%E6%97%8F%E6%96%B0%E6%89%8B%EF%BC%88Grimmkin%20Novice%EF%BC%89.png",
+    "category": "BOSS"
+  },
+  {
+    "id": "Qk9TUy_moLzmnpfkurLml4_moqbprYfvvIhHcmltbWtpbiBOaWdodG1hcmXvvIkucG5n",
+    "name": "格林亲族梦魇（Grimmkin Nightmare）",
+    "file": "./icons/BOSS/%E6%A0%BC%E6%9E%97%E4%BA%B2%E6%97%8F%E6%A2%A6%E9%AD%87%EF%BC%88Grimmkin%20Nightmare%EF%BC%89.png",
+    "category": "BOSS"
+  },
+  {
+    "id": "Qk9TUy_moLzpsoHlhbnkuYvmr43vvIhHcnV6IE1vdGhlcu-8iS53ZWJw",
+    "name": "格鲁兹之母（Gruz Mother）",
+    "file": "./icons/BOSS/%E6%A0%BC%E9%B2%81%E5%85%B9%E4%B9%8B%E6%AF%8D%EF%BC%88Gruz%20Mother%EF%BC%89.webp",
+    "category": "BOSS"
+  },
+  {
+    "id": "Qk9TUy_moqbprYfkuYvnjovmoLzmnpfvvIhOaWdodG1hcmUgS2luZyBHcmltbe-8iS5wbmc",
+    "name": "梦魇之王格林（Nightmare King Grimm）",
+    "file": "./icons/BOSS/%E6%A2%A6%E9%AD%87%E4%B9%8B%E7%8E%8B%E6%A0%BC%E6%9E%97%EF%BC%88Nightmare%20King%20Grimm%EF%BC%89.png",
+    "category": "BOSS"
+  },
+  {
+    "id": "Qk9TUy_mrovnoLTlrrnlmajvvIhCcm9rZW4gVmVzc2Vs77yJLnBuZw",
+    "name": "残破容器（Broken Vessel）",
+    "file": "./icons/BOSS/%E6%AE%8B%E7%A0%B4%E5%AE%B9%E5%99%A8%EF%BC%88Broken%20Vessel%EF%BC%89.png",
+    "category": "BOSS"
+  },
+  {
+    "id": "Qk9TUy_msLTmmbblrojljavvvIhDcnlzdGFsIEd1YXJkaWFu77yJLnBuZw",
+    "name": "水晶守卫（Crystal Guardian）",
+    "file": "./icons/BOSS/%E6%B0%B4%E6%99%B6%E5%AE%88%E5%8D%AB%EF%BC%88Crystal%20Guardian%EF%BC%89.png",
+    "category": "BOSS"
+  },
+  {
+    "id": "Qk9TUy_ms73oi6XvvIhYZXJv77yJLnBuZw",
+    "name": "泽若（Xero）",
+    "file": "./icons/BOSS/%E6%B3%BD%E8%8B%A5%EF%BC%88Xero%EF%BC%89.png",
+    "category": "BOSS"
+  },
+  {
+    "id": "Qk9TUy_ngbDoibLnjovlrZDlt6bnibnvvIhHcmV5IFByaW5jZSBab3Rl77yJLnBuZw",
+    "name": "灰色王子左特（Grey Prince Zote）",
+    "file": "./icons/BOSS/%E7%81%B0%E8%89%B2%E7%8E%8B%E5%AD%90%E5%B7%A6%E7%89%B9%EF%BC%88Grey%20Prince%20Zote%EF%BC%89.png",
+    "category": "BOSS"
+  },
+  {
+    "id": "Qk9TUy_ngbXprYLlpKfluIjvvIhTb3VsIE1hc3Rlcu-8iS5wbmc",
+    "name": "灵魂大师（Soul Master）",
+    "file": "./icons/BOSS/%E7%81%B5%E9%AD%82%E5%A4%A7%E5%B8%88%EF%BC%88Soul%20Master%EF%BC%89.png",
+    "category": "BOSS"
+  },
+  {
+    "id": "Qk9TUy_ngbXprYLmiJjlo6vvvIhTb3VsIFdhcnJpb3LvvIkud2VicA",
+    "name": "灵魂战士（Soul Warrior）",
+    "file": "./icons/BOSS/%E7%81%B5%E9%AD%82%E6%88%98%E5%A3%AB%EF%BC%88Soul%20Warrior%EF%BC%89.webp",
+    "category": "BOSS"
+  },
+  {
+    "id": "Qk9TUy_nmb3oibLpmLLlvqHogIXvvIhXaGl0ZSBEZWZlbmRlcu-8iS5wbmc",
+    "name": "白色防御者（White Defender）",
+    "file": "./icons/BOSS/%E7%99%BD%E8%89%B2%E9%98%B2%E5%BE%A1%E8%80%85%EF%BC%88White%20Defender%EF%BC%89.png",
+    "category": "BOSS"
+  },
+  {
+    "id": "Qk9TUy_npZ7kuYvpqa_mnI3ogIXvvIhHb2QgVGFtZXLvvIkucG5n",
+    "name": "神之驯服者（God Tamer）",
+    "file": "./icons/BOSS/%E7%A5%9E%E4%B9%8B%E9%A9%AF%E6%9C%8D%E8%80%85%EF%BC%88God%20Tamer%EF%BC%89.png",
+    "category": "BOSS"
+  },
+  {
+    "id": "Qk9TUy_nqbrmtJ7pqpHlo6vvvIhUaGUgSG9sbG93IEtuaWdodO-8iS5wbmc",
+    "name": "空洞骑士（The Hollow Knight）",
+    "file": "./icons/BOSS/%E7%A9%BA%E6%B4%9E%E9%AA%91%E5%A3%AB%EF%BC%88The%20Hollow%20Knight%EF%BC%89.png",
+    "category": "BOSS"
+  },
+  {
+    "id": "Qk9TUy_nsqromavpmLLlvqHogIXvvIhEdW5nIERlZmVuZGVy77yJLnBuZw",
+    "name": "粪虫防御者（Dung Defender）",
+    "file": "./icons/BOSS/%E7%B2%AA%E8%99%AB%E9%98%B2%E5%BE%A1%E8%80%85%EF%BC%88Dung%20Defender%EF%BC%89.png",
+    "category": "BOSS"
+  },
+  {
+    "id": "Qk9TUy_nuq_nsrnlrrnlmajvvIhQdXJlIFZlc3NlbO-8iS5wbmc",
+    "name": "纯粹容器（Pure Vessel）",
+    "file": "./icons/BOSS/%E7%BA%AF%E7%B2%B9%E5%AE%B9%E5%99%A8%EF%BC%88Pure%20Vessel%EF%BC%89.png",
+    "category": "BOSS"
+  },
+  {
+    "id": "Qk9TUy_nu5jnlLvlpKfluIjluK3lpaXvvIhQYWludG1hc3RlciBTaGVv77yJLnBuZw",
+    "name": "绘画大师席奥（Paintmaster Sheo）",
+    "file": "./icons/BOSS/%E7%BB%98%E7%94%BB%E5%A4%A7%E5%B8%88%E5%B8%AD%E5%A5%A5%EF%BC%88Paintmaster%20Sheo%EF%BC%89.png",
+    "category": "BOSS"
+  },
+  {
+    "id": "Qk9TUy_og6Hplb_ogIHvvIhFbGRlciBIde-8iS5wbmc",
+    "name": "胡长老（Elder Hu）",
+    "file": "./icons/BOSS/%E8%83%A1%E9%95%BF%E8%80%81%EF%BC%88Elder%20Hu%EF%BC%89.png",
+    "category": "BOSS"
+  },
+  {
+    "id": "Qk9TUy_onILlt6LpqpHlo6vvvIhIaXZlIEtuaWdodO-8iS5wbmc",
+    "name": "蜂巢骑士（Hive Knight）",
+    "file": "./icons/BOSS/%E8%9C%82%E5%B7%A2%E9%AA%91%E5%A3%AB%EF%BC%88Hive%20Knight%EF%BC%89.png",
+    "category": "BOSS"
+  },
+  {
+    "id": "Qk9TUy_onrPonoLpoobkuLvvvIhNYW50aXMgTG9yZHPvvIkucG5n",
+    "name": "螳螂领主（Mantis Lords）",
+    "file": "./icons/BOSS/%E8%9E%B3%E8%9E%82%E9%A2%86%E4%B8%BB%EF%BC%88Mantis%20Lords%EF%BC%89.png",
+    "category": "BOSS"
+  },
+  {
+    "id": "Qk9TUy_or7rmlq_lhYvvvIhOb3Nr77yJLnBuZw",
+    "name": "诺斯克（Nosk）",
+    "file": "./icons/BOSS/%E8%AF%BA%E6%96%AF%E5%85%8B%EF%BC%88Nosk%EF%BC%89.png",
+    "category": "BOSS"
+  },
+  {
+    "id": "Qk9TUy_ouoHpg4HnmoTmr5vph4zlhYvvvIhCcm9vZGluZyBNYXdsZWvvvIkucG5n",
+    "name": "躁郁的毛里克（Brooding Mawlek）",
+    "file": "./icons/BOSS/%E8%BA%81%E9%83%81%E7%9A%84%E6%AF%9B%E9%87%8C%E5%85%8B%EF%BC%88Brooding%20Mawlek%EF%BC%89.png",
+    "category": "BOSS"
+  },
+  {
+    "id": "Qk9TUy_ovpDlhYnvvIhUaGUgUmFkaWFuY2XvvIkucG5n",
+    "name": "辐光（The Radiance）",
+    "file": "./icons/BOSS/%E8%BE%90%E5%85%89%EF%BC%88The%20Radiance%EF%BC%89.png",
+    "category": "BOSS"
+  },
+  {
+    "id": "Qk9TUy_pqazlsJTnqYbvvIhNYXJtde-8iS5wbmc",
+    "name": "马尔穆（Marmu）",
+    "file": "./icons/BOSS/%E9%A9%AC%E5%B0%94%E7%A9%86%EF%BC%88Marmu%EF%BC%89.png",
+    "category": "BOSS"
+  },
+  {
+    "id": "Qk9TUy_pqaznp5Hmlq_vvIhNYXJrb3Ro77yJLnBuZw",
+    "name": "马科斯（Markoth）",
+    "file": "./icons/BOSS/%E9%A9%AC%E7%A7%91%E6%96%AF%EF%BC%88Markoth%EF%BC%89.png",
+    "category": "BOSS"
+  },
+  {
+    "id": "Qk9TUy_pqqjpkonlhYTlvJ_lpaXnvZfkuI7pqazmiZjvvIhCcm90aGVycyBPcm8gJiBNYXRv77yJLnBuZw",
+    "name": "骨钉兄弟奥罗与马托（Brothers Oro & Mato）",
+    "file": "./icons/BOSS/%E9%AA%A8%E9%92%89%E5%85%84%E5%BC%9F%E5%A5%A5%E7%BD%97%E4%B8%8E%E9%A9%AC%E6%89%98%EF%BC%88Brothers%20Oro%20%26%20Mato%EF%BC%89.png",
+    "category": "BOSS"
+  },
+  {
+    "id": "5YmR5oqAL-WGsuWIuuWKiOegje-8iERhc2ggU2xhc2jvvIkucG5n",
+    "name": "冲刺劈砍（Dash Slash）",
+    "file": "./icons/%E5%89%91%E6%8A%80/%E5%86%B2%E5%88%BA%E5%8A%88%E7%A0%8D%EF%BC%88Dash%20Slash%EF%BC%89.png",
+    "category": "剑技"
+  },
+  {
+    "id": "5YmR5oqAL-W8uuWKm-WKiOegje-8iEdyZWF0IFNsYXNo77yJLnBuZw",
+    "name": "强力劈砍（Great Slash）",
+    "file": "./icons/%E5%89%91%E6%8A%80/%E5%BC%BA%E5%8A%9B%E5%8A%88%E7%A0%8D%EF%BC%88Great%20Slash%EF%BC%89.png",
+    "category": "剑技"
+  },
+  {
+    "id": "5YmR5oqAL-aXi-mjjuWKiOegje-8iEN5Y2xvbmUgU2xhc2jvvIkucG5n",
+    "name": "旋风劈砍（Cyclone Slash）",
+    "file": "./icons/%E5%89%91%E6%8A%80/%E6%97%8B%E9%A3%8E%E5%8A%88%E7%A0%8D%EF%BC%88Cyclone%20Slash%EF%BC%89.png",
+    "category": "剑技"
+  },
+  {
+    "id": "icon_1785478191411_gjj57v",
+    "name": "sly-在商店",
+    "file": "./icons/%E5%9C%B0%E6%A0%87%2Bnpc/sly-%E5%9C%A8%E5%95%86%E5%BA%97.webp",
+    "category": "地标+npc"
+  },
+  {
+    "id": "icon_1785469626465_wa64z0",
+    "name": "乌恩（Unn）",
+    "file": "./icons/%E5%9C%B0%E6%A0%87%2Bnpc/%E4%B9%8C%E6%81%A9%EF%BC%88Unn%EF%BC%89.webp",
+    "category": "地标+npc"
+  },
+  {
+    "id": "5Zyw5qCHK25wYy_kvIrloZ7lsJTovr7vvIhJc2VsZGHvvIkud2VicA",
+    "name": "伊塞尔达（Iselda）",
+    "file": "./icons/%E5%9C%B0%E6%A0%87%2Bnpc/%E4%BC%8A%E5%A1%9E%E5%B0%94%E8%BE%BE%EF%BC%88Iselda%EF%BC%89.webp",
+    "category": "地标+npc"
+  },
+  {
+    "id": "5Zyw5qCHK25wYy_lhYjnn6XvvIhTZWVy77yJLndlYnA",
+    "name": "先知（Seer）",
+    "file": "./icons/%E5%9C%B0%E6%A0%87%2Bnpc/%E5%85%88%E7%9F%A5%EF%BC%88Seer%EF%BC%89.webp",
+    "category": "地标+npc"
+  },
+  {
+    "id": "5Zyw5qCHK25wYy_liqnkuqflo6vvvIhNaWR3aWZl77yJLndlYnA",
+    "name": "助产士（Midwife）",
+    "file": "./icons/%E5%9C%B0%E6%A0%87%2Bnpc/%E5%8A%A9%E4%BA%A7%E5%A3%AB%EF%BC%88Midwife%EF%BC%89.webp",
+    "category": "地标+npc"
+  },
+  {
+    "id": "5Zyw5qCHK25wYy_lj5vlvpLkuYvlpbPvvIhUaGUgVHJhaXRvcnPigJkgQ2hpbGTvvIkud2VicA",
+    "name": "叛徒之女（The Traitors’ Child）",
+    "file": "./icons/%E5%9C%B0%E6%A0%87%2Bnpc/%E5%8F%9B%E5%BE%92%E4%B9%8B%E5%A5%B3%EF%BC%88The%20Traitors%E2%80%99%20Child%EF%BC%89.webp",
+    "category": "地标+npc"
+  },
+  {
+    "id": "5Zyw5qCHK25wYy_lkLjomavpmpDlo6vvvIhGbHVrZSBIZXJtaXTvvIkud2VicA",
+    "name": "吸虫隐士（Fluke Hermit）",
+    "file": "./icons/%E5%9C%B0%E6%A0%87%2Bnpc/%E5%90%B8%E8%99%AB%E9%9A%90%E5%A3%AB%EF%BC%88Fluke%20Hermit%EF%BC%89.webp",
+    "category": "地标+npc"
+  },
+  {
+    "id": "5Zyw5qCHK25wYy_lm77lhYvvvIhUdWvvvIkud2VicA",
+    "name": "图克（Tuk）",
+    "file": "./icons/%E5%9C%B0%E6%A0%87%2Bnpc/%E5%9B%BE%E5%85%8B%EF%BC%88Tuk%EF%BC%89.webp",
+    "category": "地标+npc"
+  },
+  {
+    "id": "5Zyw5qCHK25wYy_lpY7oi6XvvIhRdWlycmVs77yJMS53ZWJw",
+    "name": "奎若（Quirrel）1",
+    "file": "./icons/%E5%9C%B0%E6%A0%87%2Bnpc/%E5%A5%8E%E8%8B%A5%EF%BC%88Quirrel%EF%BC%891.webp",
+    "category": "地标+npc"
+  },
+  {
+    "id": "5Zyw5qCHK25wYy_lpY7oi6XvvIhRdWlycmVs77yJMi53ZWJw",
+    "name": "奎若（Quirrel）2",
+    "file": "./icons/%E5%9C%B0%E6%A0%87%2Bnpc/%E5%A5%8E%E8%8B%A5%EF%BC%88Quirrel%EF%BC%892.webp",
+    "category": "地标+npc"
+  },
+  {
+    "id": "5Zyw5qCHK25wYy_lrojmnJvogIXljaLnkZ7mganvvIhMdXJpZW4gdGhlIFdhdGNoZXLvvIkucG5n",
+    "name": "守望者卢瑞恩（Lurien the Watcher）",
+    "file": "./icons/%E5%9C%B0%E6%A0%87%2Bnpc/%E5%AE%88%E6%9C%9B%E8%80%85%E5%8D%A2%E7%91%9E%E6%81%A9%EF%BC%88Lurien%20the%20Watcher%EF%BC%89.png",
+    "category": "地标+npc"
+  },
+  {
+    "id": "5Zyw5qCHK25wYy_lr7vnpZ7ogIXvvIhHb2RzZWVrZXLvvIkud2VicA",
+    "name": "寻神者（Godseeker）",
+    "file": "./icons/%E5%9C%B0%E6%A0%87%2Bnpc/%E5%AF%BB%E7%A5%9E%E8%80%85%EF%BC%88Godseeker%EF%BC%89.webp",
+    "category": "地标+npc"
+  },
+  {
+    "id": "5Zyw5qCHK25wYy_lsI_mhJrkurrvvIhMaXR0bGUgRm9vbO-8iS53ZWJw",
+    "name": "小愚人（Little Fool）",
+    "file": "./icons/%E5%9C%B0%E6%A0%87%2Bnpc/%E5%B0%8F%E6%84%9A%E4%BA%BA%EF%BC%88Little%20Fool%EF%BC%89.webp",
+    "category": "地标+npc"
+  },
+  {
+    "id": "5Zyw5qCHK25wYy_lsLzlp4bvvIhOeW1t77yJLndlYnA",
+    "name": "尼姆（Nymm）",
+    "file": "./icons/%E5%9C%B0%E6%A0%87%2Bnpc/%E5%B0%BC%E5%A7%86%EF%BC%88Nymm%EF%BC%89.webp",
+    "category": "地标+npc"
+  },
+  {
+    "id": "5Zyw5qCHK25wYy_lt7TkuJzvvIhCYXJkb29u77yJLndlYnA",
+    "name": "巴东（Bardoon）",
+    "file": "./icons/%E5%9C%B0%E6%A0%87%2Bnpc/%E5%B7%B4%E4%B8%9C%EF%BC%88Bardoon%EF%BC%89.webp",
+    "category": "地标+npc"
+  },
+  {
+    "id": "5Zyw5qCHK25wYy_luIPolb7loZTvvIhCcmV0dGHvvIkud2VicA",
+    "name": "布蕾塔（Bretta）",
+    "file": "./icons/%E5%9C%B0%E6%A0%87%2Bnpc/%E5%B8%83%E8%95%BE%E5%A1%94%EF%BC%88Bretta%EF%BC%89.webp",
+    "category": "地标+npc"
+  },
+  {
+    "id": "icon_1785483728809_sl9hbu",
+    "name": "布鲁姆-深巢",
+    "file": "./icons/%E5%9C%B0%E6%A0%87%2Bnpc/%E5%B8%83%E9%B2%81%E5%A7%86-%E6%B7%B1%E5%B7%A2.webp",
+    "category": "地标+npc"
+  },
+  {
+    "id": "5Zyw5qCHK25wYy_luIPpsoHlp4bvvIhCcnVtbe-8iS53ZWJw",
+    "name": "布鲁姆（Brumm）",
+    "file": "./icons/%E5%9C%B0%E6%A0%87%2Bnpc/%E5%B8%83%E9%B2%81%E5%A7%86%EF%BC%88Brumm%EF%BC%89.webp",
+    "category": "地标+npc"
+  },
+  {
+    "id": "5Zyw5qCHK25wYy_lv4_mgpTluIjlkInlkInvvIhDb25mZXNzb3IgSmlqae-8iS53ZWJw",
+    "name": "忏悔师吉吉（Confessor Jiji）",
+    "file": "./icons/%E5%9C%B0%E6%A0%87%2Bnpc/%E5%BF%8F%E6%82%94%E5%B8%88%E5%90%89%E5%90%89%EF%BC%88Confessor%20Jiji%EF%BC%89.webp",
+    "category": "地标+npc"
+  },
+  {
+    "id": "5Zyw5qCHK25wYy_miqTnrKbniLHlpb3ogIXokKjpsoHlt7TvvIhDaGFybSBMb3ZlciBTYWx1YnJh77yJLnBuZw",
+    "name": "护符爱好者萨鲁巴（Charm Lover Salubra）",
+    "file": "./icons/%E5%9C%B0%E6%A0%87%2Bnpc/%E6%8A%A4%E7%AC%A6%E7%88%B1%E5%A5%BD%E8%80%85%E8%90%A8%E9%B2%81%E5%B7%B4%EF%BC%88Charm%20Lover%20Salubra%EF%BC%89.png",
+    "category": "地标+npc"
+  },
+  {
+    "id": "5Zyw5qCHK25wYy_mj5DntKLvvIhUaXNv77yJLndlYnA",
+    "name": "提索（Tiso）",
+    "file": "./icons/%E5%9C%B0%E6%A0%87%2Bnpc/%E6%8F%90%E7%B4%A2%EF%BC%88Tiso%EF%BC%89.webp",
+    "category": "地标+npc"
+  },
+  {
+    "id": "5Zyw5qCHK25wYy_mlZnluIjojqvor7rokpnvvIhNb25vbW9uIHRoZSBUZWFjaGVy77yJLnBuZw",
+    "name": "教师莫诺蒙（Monomon the Teacher）",
+    "file": "./icons/%E5%9C%B0%E6%A0%87%2Bnpc/%E6%95%99%E5%B8%88%E8%8E%AB%E8%AF%BA%E8%92%99%EF%BC%88Monomon%20the%20Teacher%EF%BC%89.png",
+    "category": "地标+npc"
+  },
+  {
+    "id": "5Zyw5qCHK25wYy_mlofnianmkJzlr7vogIXph4zlp4bvvIhSZWxpYyBTZWVrZXIgTGVtbe-8iS53ZWJw",
+    "name": "文物搜寻者里姆（Relic Seeker Lemm）",
+    "file": "./icons/%E5%9C%B0%E6%A0%87%2Bnpc/%E6%96%87%E7%89%A9%E6%90%9C%E5%AF%BB%E8%80%85%E9%87%8C%E5%A7%86%EF%BC%88Relic%20Seeker%20Lemm%EF%BC%89.webp",
+    "category": "地标+npc"
+  },
+  {
+    "id": "5Zyw5qCHK25wYy_mlq_ojrHvvIhTbHnvvIkud2VicA",
+    "name": "斯莱（Sly）",
+    "file": "./icons/%E5%9C%B0%E6%A0%87%2Bnpc/%E6%96%AF%E8%8E%B1%EF%BC%88Sly%EF%BC%89.webp",
+    "category": "地标+npc"
+  },
+  {
+    "id": "5Zyw5qCHK25wYy_mn6_lsLzms5XvvIhDb3JuaWZlcu-8iS53ZWJw",
+    "name": "柯尼法（Cornifer）",
+    "file": "./icons/%E5%9C%B0%E6%A0%87%2Bnpc/%E6%9F%AF%E5%B0%BC%E6%B3%95%EF%BC%88Cornifer%EF%BC%89.webp",
+    "category": "地标+npc"
+  },
+  {
+    "id": "5Zyw5qCHK25wYy_msLjmgZLnmoToib7nsbPkuL3loZTvvIhFdGVybmFsIEVtaWxpdGlh77yJLndlYnA",
+    "name": "永恒的艾米丽塔（Eternal Emilitia）",
+    "file": "./icons/%E5%9C%B0%E6%A0%87%2Bnpc/%E6%B0%B8%E6%81%92%E7%9A%84%E8%89%BE%E7%B1%B3%E4%B8%BD%E5%A1%94%EF%BC%88Eternal%20Emilitia%EF%BC%89.webp",
+    "category": "地标+npc"
+  },
+  {
+    "id": "icon_1785394072654_w9p1nx",
+    "name": "温泉图标",
+    "file": "./icons/%E5%9C%B0%E6%A0%87%2Bnpc/%E6%B8%A9%E6%B3%89%E5%9B%BE%E6%A0%87.png",
+    "category": "地标+npc"
+  },
+  {
+    "id": "5Zyw5qCHK25wYy_ngbDoibLlk4DmgrzogIXvvIhHcmV5IE1vdXJuZXLvvIkud2VicA",
+    "name": "灰色哀悼者（Grey Mourner）",
+    "file": "./icons/%E5%9C%B0%E6%A0%87%2Bnpc/%E7%81%B0%E8%89%B2%E5%93%80%E6%82%BC%E8%80%85%EF%BC%88Grey%20Mourner%EF%BC%89.webp",
+    "category": "地标+npc"
+  },
+  {
+    "id": "5Zyw5qCHK25wYy_njI7kurrvvIhUaGUgSHVudGVy77yJLndlYnA",
+    "name": "猎人（The Hunter）",
+    "file": "./icons/%E5%9C%B0%E6%A0%87%2Bnpc/%E7%8C%8E%E4%BA%BA%EF%BC%88The%20Hunter%EF%BC%89.webp",
+    "category": "地标+npc"
+  },
+  {
+    "id": "5Zyw5qCHK25wYy_njpvkuL3ojo7vvIhNYXJpc3Nh77yJLndlYnA",
+    "name": "玛丽莎（Marissa）",
+    "file": "./icons/%E5%9C%B0%E6%A0%87%2Bnpc/%E7%8E%9B%E4%B8%BD%E8%8E%8E%EF%BC%88Marissa%EF%BC%89.webp",
+    "category": "地标+npc"
+  },
+  {
+    "id": "5Zyw5qCHK25wYy_nkZ7nu7TlhYvvvIhSZXZla--8iS53ZWJw",
+    "name": "瑞维克（Revek）",
+    "file": "./icons/%E5%9C%B0%E6%A0%87%2Bnpc/%E7%91%9E%E7%BB%B4%E5%85%8B%EF%BC%88Revek%EF%BC%89.webp",
+    "category": "地标+npc"
+  },
+  {
+    "id": "icon_1785754481521_jqdupb",
+    "name": "生命血茧图标",
+    "file": "./icons/%E5%9C%B0%E6%A0%87%2Bnpc/%E7%94%9F%E5%91%BD%E8%A1%80%E8%8C%A7%E5%9B%BE%E6%A0%87.png",
+    "category": "地标+npc"
+  },
+  {
+    "id": "5Zyw5qCHK25wYy9waW5fdHJhbV9sb2NhdGlvbiAjNjM4Mi5wbmc",
+    "name": "电车图标",
+    "file": "./icons/%E5%9C%B0%E6%A0%87%2Bnpc/%E7%94%B5%E8%BD%A6%E5%9B%BE%E6%A0%87.png",
+    "category": "地标+npc"
+  },
+  {
+    "id": "5Zyw5qCHK25wYy_nmb3oibLlpKvkurrvvIhXaGl0ZSBMYWR577yJLndlYnA",
+    "name": "白色夫人（White Lady）",
+    "file": "./icons/%E5%9C%B0%E6%A0%87%2Bnpc/%E7%99%BD%E8%89%B2%E5%A4%AB%E4%BA%BA%EF%BC%88White%20Lady%EF%BC%89.webp",
+    "category": "地标+npc"
+  },
+  {
+    "id": "icon_1785469745960_np2xoe",
+    "name": "第一次救左特",
+    "file": "./icons/%E5%9C%B0%E6%A0%87%2Bnpc/%E7%AC%AC%E4%B8%80%E6%AC%A1%E6%95%91%E5%B7%A6%E7%89%B9.webp",
+    "category": "地标+npc"
+  },
+  {
+    "id": "icon_1785469745958_xjg2yy",
+    "name": "第二次救左特",
+    "file": "./icons/%E5%9C%B0%E6%A0%87%2Bnpc/%E7%AC%AC%E4%BA%8C%E6%AC%A1%E6%95%91%E5%B7%A6%E7%89%B9.webp",
+    "category": "地标+npc"
+  },
+  {
+    "id": "5Zyw5qCHK25wYy_nsbPmi4nvvIhNeWxh77yJLndlYnA",
+    "name": "米拉（Myla）",
+    "file": "./icons/%E5%9C%B0%E6%A0%87%2Bnpc/%E7%B1%B3%E6%8B%89%EF%BC%88Myla%EF%BC%89.webp",
+    "category": "地标+npc"
+  },
+  {
+    "id": "5Zyw5qCHK25wYy_nu7TmtJvvvIhXaWxsb2jvvIkud2VicA",
+    "name": "维洛（Willoh）",
+    "file": "./icons/%E5%9C%B0%E6%A0%87%2Bnpc/%E7%BB%B4%E6%B4%9B%EF%BC%88Willoh%EF%BC%89.webp",
+    "category": "地标+npc"
+  },
+  {
+    "id": "icon_1785401943917_10gapu",
+    "name": "苍白之王",
+    "file": "./icons/%E5%9C%B0%E6%A0%87%2Bnpc/%E8%8B%8D%E7%99%BD%E4%B9%8B%E7%8E%8B.webp",
+    "category": "地标+npc"
+  },
+  {
+    "id": "icon_1785403195308_f58xvu",
+    "name": "苍白潜伏者",
+    "file": "./icons/%E5%9C%B0%E6%A0%87%2Bnpc/%E8%8B%8D%E7%99%BD%E6%BD%9C%E4%BC%8F%E8%80%85.webp",
+    "category": "地标+npc"
+  },
+  {
+    "id": "5Zyw5qCHK25wYy_oi5Tol5PpooToqIDlrrbvvIhNb3NzIFByb3BoZXTvvIkud2VicA",
+    "name": "苔藓预言家（Moss Prophet）",
+    "file": "./icons/%E5%9C%B0%E6%A0%87%2Bnpc/%E8%8B%94%E8%97%93%E9%A2%84%E8%A8%80%E5%AE%B6%EF%BC%88Moss%20Prophet%EF%BC%89.webp",
+    "category": "地标+npc"
+  },
+  {
+    "id": "5Zyw5qCHK25wYy_ok53oibLkuYvlrZDkuZTlsLzvvIhCbHVlIENoaWxkIEpvbmnvvIkud2VicA",
+    "name": "蓝色之子乔尼（Blue Child Joni）",
+    "file": "./icons/%E5%9C%B0%E6%A0%87%2Bnpc/%E8%93%9D%E8%89%B2%E4%B9%8B%E5%AD%90%E4%B9%94%E5%B0%BC%EF%BC%88Blue%20Child%20Joni%EF%BC%89.webp",
+    "category": "地标+npc"
+  },
+  {
+    "id": "5Zyw5qCHK25wYy_omJHoj4flhYjnlJ_vvIhNaXN0ZXIgTXVzaHJvb23vvIkud2VicA",
+    "name": "蘑菇先生（Mister Mushroom）",
+    "file": "./icons/%E5%9C%B0%E6%A0%87%2Bnpc/%E8%98%91%E8%8F%87%E5%85%88%E7%94%9F%EF%BC%88Mister%20Mushroom%EF%BC%89.webp",
+    "category": "地标+npc"
+  },
+  {
+    "id": "5Zyw5qCHK25wYy_omavniLfniLfvvIhHcnViZmF0aGVy77yJLndlYnA",
+    "name": "虫爷爷（Grubfather）",
+    "file": "./icons/%E5%9C%B0%E6%A0%87%2Bnpc/%E8%99%AB%E7%88%B7%E7%88%B7%EF%BC%88Grubfather%EF%BC%89.webp",
+    "category": "地标+npc"
+  },
+  {
+    "id": "5Zyw5qCHK25wYy_omavplb_ogIXvvIhFbGRlcmJ1Z--8iS53ZWJw",
+    "name": "虫长者（Elderbug）",
+    "file": "./icons/%E5%9C%B0%E6%A0%87%2Bnpc/%E8%99%AB%E9%95%BF%E8%80%85%EF%BC%88Elderbug%EF%BC%89.webp",
+    "category": "地标+npc"
+  },
+  {
+    "id": "5Zyw5qCHK25wYy_onILlt6LlpbPnjovnu7Tmlq_luJXvvIhIaXZlIFF1ZWVuIFZlc3Bh77yJLndlYnA",
+    "name": "蜂巢女王维斯帕（Hive Queen Vespa）",
+    "file": "./icons/%E5%9C%B0%E6%A0%87%2Bnpc/%E8%9C%82%E5%B7%A2%E5%A5%B3%E7%8E%8B%E7%BB%B4%E6%96%AF%E5%B8%95%EF%BC%88Hive%20Queen%20Vespa%EF%BC%89.webp",
+    "category": "地标+npc"
+  },
+  {
+    "id": "5Zyw5qCHK25wYy_onJfniZvokKjmu6HvvIhTbmFpbCBTaGFtYW7vvIkud2VicA",
+    "name": "蜗牛萨满（Snail Shaman）",
+    "file": "./icons/%E5%9C%B0%E6%A0%87%2Bnpc/%E8%9C%97%E7%89%9B%E8%90%A8%E6%BB%A1%EF%BC%88Snail%20Shaman%EF%BC%89.webp",
+    "category": "地标+npc"
+  },
+  {
+    "id": "5Zyw5qCHK25wYy_ovabnq5nlm77moIcucG5n",
+    "name": "车站图标",
+    "file": "./icons/%E5%9C%B0%E6%A0%87%2Bnpc/%E8%BD%A6%E7%AB%99%E5%9B%BE%E6%A0%87.png",
+    "category": "地标+npc"
+  },
+  {
+    "id": "5Zyw5qCHK25wYy_ov6rkuIfvvIhEaXZpbmXvvIkud2VicA",
+    "name": "迪万（Divine）",
+    "file": "./icons/%E5%9C%B0%E6%A0%87%2Bnpc/%E8%BF%AA%E4%B8%87%EF%BC%88Divine%EF%BC%89.webp",
+    "category": "地标+npc"
+  },
+  {
+    "id": "5Zyw5qCHK25wYy_ph47lhb3otavmi4nvvIhIZXJyYWggdGhlIEJlYXN077yJLnBuZw",
+    "name": "野兽赫拉（Herrah the Beast）",
+    "file": "./icons/%E5%9C%B0%E6%A0%87%2Bnpc/%E9%87%8E%E5%85%BD%E8%B5%AB%E6%8B%89%EF%BC%88Herrah%20the%20Beast%EF%BC%89.png",
+    "category": "地标+npc"
+  },
+  {
+    "id": "5Zyw5qCHK25wYy_pkqLpk4HkuYvprYLlkInmganvvIhTdGVlbCBTb3VsIEppbm7vvIkud2VicA",
+    "name": "钢铁之魂吉恩（Steel Soul Jinn）",
+    "file": "./icons/%E5%9C%B0%E6%A0%87%2Bnpc/%E9%92%A2%E9%93%81%E4%B9%8B%E9%AD%82%E5%90%89%E6%81%A9%EF%BC%88Steel%20Soul%20Jinn%EF%BC%89.webp",
+    "category": "地标+npc"
+  },
+  {
+    "id": "5Zyw5qCHK25wYy_pk7booYzlrrbnsbPojonotJ3lsJTvvIhNaWxsaWJlbGxlIHRoZSBCYW5rZXLvvIkud2VicA",
+    "name": "银行家米莉贝尔（Millibelle the Banker）",
+    "file": "./icons/%E5%9C%B0%E6%A0%87%2Bnpc/%E9%93%B6%E8%A1%8C%E5%AE%B6%E7%B1%B3%E8%8E%89%E8%B4%9D%E5%B0%94%EF%BC%88Millibelle%20the%20Banker%EF%BC%89.webp",
+    "category": "地标+npc"
+  },
+  {
+    "id": "5Zyw5qCHK25wYy_plb_mpIXlm77moIcucG5n",
+    "name": "长椅图标",
+    "file": "./icons/%E5%9C%B0%E6%A0%87%2Bnpc/%E9%95%BF%E6%A4%85%E5%9B%BE%E6%A0%87.png",
+    "category": "地标+npc"
+  },
+  {
+    "id": "5Zyw5qCHK25wYy_pmL_luIPvvIhDbG90aO-8iS53ZWJw",
+    "name": "阿布（Cloth）",
+    "file": "./icons/%E5%9C%B0%E6%A0%87%2Bnpc/%E9%98%BF%E5%B8%83%EF%BC%88Cloth%EF%BC%89.webp",
+    "category": "地标+npc"
+  },
+  {
+    "id": "5Zyw5qCHK25wYy_pnaLlhbfliLbkvZzluIjvvIhNYXNrIE1ha2Vy77yJLndlYnA",
+    "name": "面具制作师（Mask Maker）",
+    "file": "./icons/%E5%9C%B0%E6%A0%87%2Bnpc/%E9%9D%A2%E5%85%B7%E5%88%B6%E4%BD%9C%E5%B8%88%EF%BC%88Mask%20Maker%EF%BC%89.webp",
+    "category": "地标+npc"
+  },
+  {
+    "id": "5Zyw5qCHK25wYy_po5_ohb_ogIXvvIhMZWcgRWF0ZXLvvIkud2VicA",
+    "name": "食腿者（Leg Eater）",
+    "file": "./icons/%E5%9C%B0%E6%A0%87%2Bnpc/%E9%A3%9F%E8%85%BF%E8%80%85%EF%BC%88Leg%20Eater%EF%BC%89.webp",
+    "category": "地标+npc"
+  },
+  {
+    "id": "5Zyw5qCHK25wYy_pqqjpkonljKDvvIhOYWlsc21pdGjvvIkud2VicA",
+    "name": "骨钉匠（Nailsmith）",
+    "file": "./icons/%E5%9C%B0%E6%A0%87%2Bnpc/%E9%AA%A8%E9%92%89%E5%8C%A0%EF%BC%88Nailsmith%EF%BC%89.webp",
+    "category": "地标+npc"
+  },
+  {
+    "id": "5Zyw5qCHK25wYy_pqqjpkonlpKfluIjlpaXnvZfvvIhOYWlsbWFzdGVyIE9yb--8iS53ZWJw",
+    "name": "骨钉大师奥罗（Nailmaster Oro）",
+    "file": "./icons/%E5%9C%B0%E6%A0%87%2Bnpc/%E9%AA%A8%E9%92%89%E5%A4%A7%E5%B8%88%E5%A5%A5%E7%BD%97%EF%BC%88Nailmaster%20Oro%EF%BC%89.webp",
+    "category": "地标+npc"
+  },
+  {
+    "id": "5Zyw5qCHK25wYy_pqqjpkonlpKfluIjluK3lpaXvvIhOYWlsbWFzdGVyIFNoZW_vvIkud2VicA",
+    "name": "骨钉大师席奥（Nailmaster Sheo）",
+    "file": "./icons/%E5%9C%B0%E6%A0%87%2Bnpc/%E9%AA%A8%E9%92%89%E5%A4%A7%E5%B8%88%E5%B8%AD%E5%A5%A5%EF%BC%88Nailmaster%20Sheo%EF%BC%89.webp",
+    "category": "地标+npc"
+  },
+  {
+    "id": "5Zyw5qCHK25wYy_pqqjpkonlpKfluIjpqazmiZjvvIhOYWlsbWFzdGVyIE1hdG_vvIkud2VicA",
+    "name": "骨钉大师马托（Nailmaster Mato）",
+    "file": "./icons/%E5%9C%B0%E6%A0%87%2Bnpc/%E9%AA%A8%E9%92%89%E5%A4%A7%E5%B8%88%E9%A9%AC%E6%89%98%EF%BC%88Nailmaster%20Mato%EF%BC%89.webp",
+    "category": "地标+npc"
+  },
+  {
+    "id": "icon_1785394061162_3lrzvn",
+    "name": "鹿角虫车站图标",
+    "file": "./icons/%E5%9C%B0%E6%A0%87%2Bnpc/%E9%B9%BF%E8%A7%92%E8%99%AB%E8%BD%A6%E7%AB%99%E5%9B%BE%E6%A0%87.png",
+    "category": "地标+npc"
+  },
+  {
+    "id": "5oqA6IO9L-S8iuaWr-eOm-eahOecvOazqu-8iElzbWEncyBUZWFy77yJLnBuZw",
+    "name": "伊斯玛的眼泪（Isma's Tear）",
+    "file": "./icons/%E6%8A%80%E8%83%BD/%E4%BC%8A%E6%96%AF%E7%8E%9B%E7%9A%84%E7%9C%BC%E6%B3%AA%EF%BC%88Isma%27s%20Tear%EF%BC%89.png",
+    "category": "技能"
+  },
+  {
+    "id": "5oqA6IO9L-WajuWPq-W5veeBte-8iEhvd2xpbmcgV3JhaXRoc--8iS5wbmc",
+    "name": "嚎叫幽灵（Howling Wraiths）",
+    "file": "./icons/%E6%8A%80%E8%83%BD/%E5%9A%8E%E5%8F%AB%E5%B9%BD%E7%81%B5%EF%BC%88Howling%20Wraiths%EF%BC%89.png",
+    "category": "技能"
+  },
+  {
+    "id": "5oqA6IO9L-WkjeS7h-S5i-mtgu-8iFZlbmdlZnVsIFNwaXJpdO-8iS5wbmc",
+    "name": "复仇之魂（Vengeful Spirit）",
+    "file": "./icons/%E6%8A%80%E8%83%BD/%E5%A4%8D%E4%BB%87%E4%B9%8B%E9%AD%82%EF%BC%88Vengeful%20Spirit%EF%BC%89.png",
+    "category": "技能"
+  },
+  {
+    "id": "5oqA6IO9L-W4neeOi-S5i-e_vO-8iE1vbmFyY2ggV2luZ3PvvIkucG5n",
+    "name": "帝王之翼（Monarch Wings）",
+    "file": "./icons/%E6%8A%80%E8%83%BD/%E5%B8%9D%E7%8E%8B%E4%B9%8B%E7%BF%BC%EF%BC%88Monarch%20Wings%EF%BC%89.png",
+    "category": "技能"
+  },
+  {
+    "id": "5oqA6IO9L-aal-W9seS5i-mtgu-8iFNoYWRlIFNvdWzvvIkucG5n",
+    "name": "暗影之魂（Shade Soul）",
+    "file": "./icons/%E6%8A%80%E8%83%BD/%E6%9A%97%E5%BD%B1%E4%B9%8B%E9%AD%82%EF%BC%88Shade%20Soul%EF%BC%89.png",
+    "category": "技能"
+  },
+  {
+    "id": "5oqA6IO9L-aal-W9seaKq-mjju-8iFNoYWRlIENsb2Fr77yJLnBuZw",
+    "name": "暗影披风（Shade Cloak）",
+    "file": "./icons/%E6%8A%80%E8%83%BD/%E6%9A%97%E5%BD%B1%E6%8A%AB%E9%A3%8E%EF%BC%88Shade%20Cloak%EF%BC%89.png",
+    "category": "技能"
+  },
+  {
+    "id": "5oqA6IO9L-awtOaZtuS5i-W_g--8iENyeXN0YWwgSGVhcnTvvIkucG5n",
+    "name": "水晶之心（Crystal Heart）",
+    "file": "./icons/%E6%8A%80%E8%83%BD/%E6%B0%B4%E6%99%B6%E4%B9%8B%E5%BF%83%EF%BC%88Crystal%20Heart%EF%BC%89.png",
+    "category": "技能"
+  },
+  {
+    "id": "5oqA6IO9L-a3sea4iuWwluWVuO-8iEFieXNzIFNocmlla--8iS5wbmc",
+    "name": "深渊尖啸（Abyss Shriek）",
+    "file": "./icons/%E6%8A%80%E8%83%BD/%E6%B7%B1%E6%B8%8A%E5%B0%96%E5%95%B8%EF%BC%88Abyss%20Shriek%EF%BC%89.png",
+    "category": "技能"
+  },
+  {
+    "id": "5oqA6IO9L-iNkuiKnOS_r-WGsu-8iERlc29sYXRlIERpdmXvvIkucG5n",
+    "name": "荒芜俯冲（Desolate Dive）",
+    "file": "./icons/%E6%8A%80%E8%83%BD/%E8%8D%92%E8%8A%9C%E4%BF%AF%E5%86%B2%EF%BC%88Desolate%20Dive%EF%BC%89.png",
+    "category": "技能"
+  },
+  {
+    "id": "5oqA6IO9L-ibvue_vOaKq-mjju-8iE1vdGh3aW5nIENsb2Fr77yJLnBuZw",
+    "name": "蛾翼披风（Mothwing Cloak）",
+    "file": "./icons/%E6%8A%80%E8%83%BD/%E8%9B%BE%E7%BF%BC%E6%8A%AB%E9%A3%8E%EF%BC%88Mothwing%20Cloak%EF%BC%89.png",
+    "category": "技能"
+  },
+  {
+    "id": "5oqA6IO9L-ies-iegueIqu-8iE1hbnRpcyBDbGF377yJLnBuZw",
+    "name": "螳螂爪（Mantis Claw）",
+    "file": "./icons/%E6%8A%80%E8%83%BD/%E8%9E%B3%E8%9E%82%E7%88%AA%EF%BC%88Mantis%20Claw%EF%BC%89.png",
+    "category": "技能"
+  },
+  {
+    "id": "5oqA6IO9L-m7keaal-mZjeS4tO-8iERlc2NlbmRpbmcgRGFya--8iS5wbmc",
+    "name": "黑暗降临（Descending Dark）",
+    "file": "./icons/%E6%8A%80%E8%83%BD/%E9%BB%91%E6%9A%97%E9%99%8D%E4%B8%B4%EF%BC%88Descending%20Dark%EF%BC%89.png",
+    "category": "技能"
+  },
+  {
+    "id": "5oqk56ymK-aKpOespuanveWbvuaghy9jaGFybV9ncmltbWtpbl8wMV91cGdyYWRlICM0NjQ0LnBuZw",
+    "name": "charm_grimmkin_01_upgrade #4644",
+    "file": "./icons/%E6%8A%A4%E7%AC%A6%2B%E6%8A%A4%E7%AC%A6%E6%A7%BD%E5%9B%BE%E6%A0%87/charm_grimmkin_01_upgrade%20%234644.png",
+    "category": "护符+护符槽图标"
+  },
+  {
+    "id": "5oqk56ymK-aKpOespuanveWbvuaghy_kuYzmgankuYvlvaLvvIhTaGFwZSBvZiBVbm7vvIkucG5n",
+    "name": "乌恩之形（Shape of Unn）",
+    "file": "./icons/%E6%8A%A4%E7%AC%A6%2B%E6%8A%A4%E7%AC%A6%E6%A7%BD%E5%9B%BE%E6%A0%87/%E4%B9%8C%E6%81%A9%E4%B9%8B%E5%BD%A2%EF%BC%88Shape%20of%20Unn%EF%BC%89.png",
+    "category": "护符+护符槽图标"
+  },
+  {
+    "id": "5oqk56ymK-aKpOespuanveWbvuaghy_kuZTlsLznmoTnpZ3npo_vvIhKb25pJ3MgQmxlc3NpbmfvvIkucG5n",
+    "name": "乔尼的祝福（Joni's Blessing）",
+    "file": "./icons/%E6%8A%A4%E7%AC%A6%2B%E6%8A%A4%E7%AC%A6%E6%A7%BD%E5%9B%BE%E6%A0%87/%E4%B9%94%E5%B0%BC%E7%9A%84%E7%A5%9D%E7%A6%8F%EF%BC%88Joni%27s%20Blessing%EF%BC%89.png",
+    "category": "护符+护符槽图标"
+  },
+  {
+    "id": "5oqk56ymK-aKpOespuanveWbvuaghy_kuqHogIXkuYvmgJLvvIhGdXJ5IG9mIHRoZSBGYWxsZW7vvIkucG5n",
+    "name": "亡者之怒（Fury of the Fallen）",
+    "file": "./icons/%E6%8A%A4%E7%AC%A6%2B%E6%8A%A4%E7%AC%A6%E6%A7%BD%E5%9B%BE%E6%A0%87/%E4%BA%A1%E8%80%85%E4%B9%8B%E6%80%92%EF%BC%88Fury%20of%20the%20Fallen%EF%BC%89.png",
+    "category": "护符+护符槽图标"
+  },
+  {
+    "id": "5oqk56ymK-aKpOespuanveWbvuaghy_ku7vmgKfnmoTmjIfljZfpkojvvIhXYXl3YXJkIENvbXBhc3PvvIkucG5n",
+    "name": "任性的指南针（Wayward Compass）",
+    "file": "./icons/%E6%8A%A4%E7%AC%A6%2B%E6%8A%A4%E7%AC%A6%E6%A7%BD%E5%9B%BE%E6%A0%87/%E4%BB%BB%E6%80%A7%E7%9A%84%E6%8C%87%E5%8D%97%E9%92%88%EF%BC%88Wayward%20Compass%EF%BC%89.png",
+    "category": "护符+护符槽图标"
+  },
+  {
+    "id": "5oqk56ymK-aKpOespuanveWbvuaghy_kv67plb_kuYvpkonvvIhMb25nbmFpbO-8iS5wbmc",
+    "name": "修长之钉（Longnail）",
+    "file": "./icons/%E6%8A%A4%E7%AC%A6%2B%E6%8A%A4%E7%AC%A6%E6%A7%BD%E5%9B%BE%E6%A0%87/%E4%BF%AE%E9%95%BF%E4%B9%8B%E9%92%89%EF%BC%88Longnail%EF%BC%89.png",
+    "category": "护符+护符槽图标"
+  },
+  {
+    "id": "5oqk56ymK-aKpOespuanveWbvuaghy_lhrLliLrlpKfluIjvvIhEYXNobWFzdGVy77yJLnBuZw",
+    "name": "冲刺大师（Dashmaster）",
+    "file": "./icons/%E6%8A%A4%E7%AC%A6%2B%E6%8A%A4%E7%AC%A6%E6%A7%BD%E5%9B%BE%E6%A0%87/%E5%86%B2%E5%88%BA%E5%A4%A7%E5%B8%88%EF%BC%88Dashmaster%EF%BC%89.png",
+    "category": "护符+护符槽图标"
+  },
+  {
+    "id": "5oqk56ymK-aKpOespuanveWbvuaghy_lj5HlhYnlrZDlrqvvvIhHbG93aW5nIFdvbWLvvIkucG5n",
+    "name": "发光子宫（Glowing Womb）",
+    "file": "./icons/%E6%8A%A4%E7%AC%A6%2B%E6%8A%A4%E7%AC%A6%E6%A7%BD%E5%9B%BE%E6%A0%87/%E5%8F%91%E5%85%89%E5%AD%90%E5%AE%AB%EF%BC%88Glowing%20Womb%EF%BC%89.png",
+    "category": "护符+护符槽图标"
+  },
+  {
+    "id": "5oqk56ymK-aKpOespuanveWbvuaghy_lkLjomavkuYvlt6LvvIhGbHVrZW5lc3TvvIkucG5n",
+    "name": "吸虫之巢（Flukenest）",
+    "file": "./icons/%E6%8A%A4%E7%AC%A6%2B%E6%8A%A4%E7%AC%A6%E6%A7%BD%E5%9B%BE%E6%A0%87/%E5%90%B8%E8%99%AB%E4%B9%8B%E5%B7%A2%EF%BC%88Flukenest%EF%BC%89.png",
+    "category": "护符+护符槽图标"
+  },
+  {
+    "id": "5oqk56ymK-aKpOespuanveWbvuaghy_lmazprYLogIXvvIhTb3VsIEVhdGVy77yJLnBuZw",
+    "name": "噬魂者（Soul Eater）",
+    "file": "./icons/%E6%8A%A4%E7%AC%A6%2B%E6%8A%A4%E7%AC%A6%E6%A7%BD%E5%9B%BE%E6%A0%87/%E5%99%AC%E9%AD%82%E8%80%85%EF%BC%88Soul%20Eater%EF%BC%89.png",
+    "category": "护符+护符槽图标"
+  },
+  {
+    "id": "5oqk56ymK-aKpOespuanveWbvuaghy_lm73njovkuYvprYLvvIhLaW5nc291bO-8iS5wbmc",
+    "name": "国王之魂（Kingsoul）",
+    "file": "./icons/%E6%8A%A4%E7%AC%A6%2B%E6%8A%A4%E7%AC%A6%E6%A7%BD%E5%9B%BE%E6%A0%87/%E5%9B%BD%E7%8E%8B%E4%B9%8B%E9%AD%82%EF%BC%88Kingsoul%EF%BC%89.png",
+    "category": "护符+护符槽图标"
+  },
+  {
+    "id": "5oqk56ymK-aKpOespuanveWbvuaghy_lnZrlm7rlipvph4_vvIhVbmJyZWFrYWJsZSBTdHJlbmd0aO-8iS5wbmc",
+    "name": "坚固力量（Unbreakable Strength）",
+    "file": "./icons/%E6%8A%A4%E7%AC%A6%2B%E6%8A%A4%E7%AC%A6%E6%A7%BD%E5%9B%BE%E6%A0%87/%E5%9D%9A%E5%9B%BA%E5%8A%9B%E9%87%8F%EF%BC%88Unbreakable%20Strength%EF%BC%89.png",
+    "category": "护符+护符槽图标"
+  },
+  {
+    "id": "5oqk56ymK-aKpOespuanveWbvuaghy_lnZrlm7rlv4PohI_vvIhVbmJyZWFrYWJsZSBIZWFydO-8iS5wbmc",
+    "name": "坚固心脏（Unbreakable Heart）",
+    "file": "./icons/%E6%8A%A4%E7%AC%A6%2B%E6%8A%A4%E7%AC%A6%E6%A7%BD%E5%9B%BE%E6%A0%87/%E5%9D%9A%E5%9B%BA%E5%BF%83%E8%84%8F%EF%BC%88Unbreakable%20Heart%EF%BC%89.png",
+    "category": "护符+护符槽图标"
+  },
+  {
+    "id": "5oqk56ymK-aKpOespuanveWbvuaghy_lnZrlm7rotKrlqarvvIhVbmJyZWFrYWJsZSBHcmVlZO-8iS5wbmc",
+    "name": "坚固贪婪（Unbreakable Greed）",
+    "file": "./icons/%E6%8A%A4%E7%AC%A6%2B%E6%8A%A4%E7%AC%A6%E6%A7%BD%E5%9B%BE%E6%A0%87/%E5%9D%9A%E5%9B%BA%E8%B4%AA%E5%A9%AA%EF%BC%88Unbreakable%20Greed%EF%BC%89.png",
+    "category": "护符+护符槽图标"
+  },
+  {
+    "id": "5oqk56ymK-aKpOespuanveWbvuaghy_lnZrnoazlpJblo7PvvIhTdGFsd2FydCBTaGVsbO-8iS5wbmc",
+    "name": "坚硬外壳（Stalwart Shell）",
+    "file": "./icons/%E6%8A%A4%E7%AC%A6%2B%E6%8A%A4%E7%AC%A6%E6%A7%BD%E5%9B%BE%E6%A0%87/%E5%9D%9A%E7%A1%AC%E5%A4%96%E5%A3%B3%EF%BC%88Stalwart%20Shell%EF%BC%89.png",
+    "category": "护符+护符槽图标"
+  },
+  {
+    "id": "5oqk56ymK-aKpOespuanveWbvuaghy_lt7TlvrflsJTkuYvlo7PvvIhCYWxkdXIgU2hlbGzvvIkucG5n",
+    "name": "巴德尔之壳（Baldur Shell）",
+    "file": "./icons/%E6%8A%A4%E7%AC%A6%2B%E6%8A%A4%E7%AC%A6%E6%A7%BD%E5%9B%BE%E6%A0%87/%E5%B7%B4%E5%BE%B7%E5%B0%94%E4%B9%8B%E5%A3%B3%EF%BC%88Baldur%20Shell%EF%BC%89.png",
+    "category": "护符+护符槽图标"
+  },
+  {
+    "id": "5oqk56ymK-aKpOespuanveWbvuaghy_lubzomavkuYvmrYzvvIhHcnVic29uZ--8iS5wbmc",
+    "name": "幼虫之歌（Grubsong）",
+    "file": "./icons/%E6%8A%A4%E7%AC%A6%2B%E6%8A%A4%E7%AC%A6%E6%A7%BD%E5%9B%BE%E6%A0%87/%E5%B9%BC%E8%99%AB%E4%B9%8B%E6%AD%8C%EF%BC%88Grubsong%EF%BC%89.png",
+    "category": "护符+护符槽图标"
+  },
+  {
+    "id": "5oqk56ymK-aKpOespuanveWbvuaghy_lv6vpgJ_liojnoI3vvIhRdWljayBTbGFzaO-8iS5wbmc",
+    "name": "快速劈砍（Quick Slash）",
+    "file": "./icons/%E6%8A%A4%E7%AC%A6%2B%E6%8A%A4%E7%AC%A6%E6%A7%BD%E5%9B%BE%E6%A0%87/%E5%BF%AB%E9%80%9F%E5%8A%88%E7%A0%8D%EF%BC%88Quick%20Slash%EF%BC%89.png",
+    "category": "护符+护符槽图标"
+  },
+  {
+    "id": "5oqk56ymK-aKpOespuanveWbvuaghy_lv6vpgJ_ogZrpm4bvvIhRdWljayBGb2N1c--8iS5wbmc",
+    "name": "快速聚集（Quick Focus）",
+    "file": "./icons/%E6%8A%A4%E7%AC%A6%2B%E6%8A%A4%E7%AC%A6%E6%A7%BD%E5%9B%BE%E6%A0%87/%E5%BF%AB%E9%80%9F%E8%81%9A%E9%9B%86%EF%BC%88Quick%20Focus%EF%BC%89.png",
+    "category": "护符+护符槽图标"
+  },
+  {
+    "id": "5oqk56ymK-aKpOespuanveWbvuaghy_ml6Dlv6fml4vlvovvvIhDYXJlZnJlZSBNZWxvZHnvvIkucG5n",
+    "name": "无忧旋律（Carefree Melody）",
+    "file": "./icons/%E6%8A%A4%E7%AC%A6%2B%E6%8A%A4%E7%AC%A6%E6%A7%BD%E5%9B%BE%E6%A0%87/%E6%97%A0%E5%BF%A7%E6%97%8B%E5%BE%8B%EF%BC%88Carefree%20Melody%EF%BC%89.png",
+    "category": "护符+护符槽图标"
+  },
+  {
+    "id": "5oqk56ymK-aKpOespuanveWbvuaghy_mmJPnoo7lipvph4_vvIhGcmFnaWxlIFN0cmVuZ3Ro77yJLnBuZw",
+    "name": "易碎力量（Fragile Strength）",
+    "file": "./icons/%E6%8A%A4%E7%AC%A6%2B%E6%8A%A4%E7%AC%A6%E6%A7%BD%E5%9B%BE%E6%A0%87/%E6%98%93%E7%A2%8E%E5%8A%9B%E9%87%8F%EF%BC%88Fragile%20Strength%EF%BC%89.png",
+    "category": "护符+护符槽图标"
+  },
+  {
+    "id": "5oqk56ymK-aKpOespuanveWbvuaghy_mmJPnoo7lv4PohI_vvIhGcmFnaWxlIEhlYXJ077yJLnBuZw",
+    "name": "易碎心脏（Fragile Heart）",
+    "file": "./icons/%E6%8A%A4%E7%AC%A6%2B%E6%8A%A4%E7%AC%A6%E6%A7%BD%E5%9B%BE%E6%A0%87/%E6%98%93%E7%A2%8E%E5%BF%83%E8%84%8F%EF%BC%88Fragile%20Heart%EF%BC%89.png",
+    "category": "护符+护符槽图标"
+  },
+  {
+    "id": "5oqk56ymK-aKpOespuanveWbvuaghy_mmJPnoo7otKrlqarvvIhGcmFnaWxlIEdyZWVk77yJLnBuZw",
+    "name": "易碎贪婪（Fragile Greed）",
+    "file": "./icons/%E6%8A%A4%E7%AC%A6%2B%E6%8A%A4%E7%AC%A6%E6%A7%BD%E5%9B%BE%E6%A0%87/%E6%98%93%E7%A2%8E%E8%B4%AA%E5%A9%AA%EF%BC%88Fragile%20Greed%EF%BC%89.png",
+    "category": "护符+护符槽图标"
+  },
+  {
+    "id": "5oqk56ymK-aKpOespuanveWbvuaghy_moLzmnpfkuYvlrZDvvIhHcmltbWNoaWxk77yJMS5wbmc",
+    "name": "格林之子（Grimmchild）1",
+    "file": "./icons/%E6%8A%A4%E7%AC%A6%2B%E6%8A%A4%E7%AC%A6%E6%A7%BD%E5%9B%BE%E6%A0%87/%E6%A0%BC%E6%9E%97%E4%B9%8B%E5%AD%90%EF%BC%88Grimmchild%EF%BC%891.png",
+    "category": "护符+护符槽图标"
+  },
+  {
+    "id": "5oqk56ymK-aKpOespuanveWbvuaghy_moLzmnpfkuYvlrZDvvIhHcmltbWNoaWxk77yJMi5wbmc",
+    "name": "格林之子（Grimmchild）2",
+    "file": "./icons/%E6%8A%A4%E7%AC%A6%2B%E6%8A%A4%E7%AC%A6%E6%A7%BD%E5%9B%BE%E6%A0%87/%E6%A0%BC%E6%9E%97%E4%B9%8B%E5%AD%90%EF%BC%88Grimmchild%EF%BC%892.png",
+    "category": "护符+护符槽图标"
+  },
+  {
+    "id": "5oqk56ymK-aKpOespuanveWbvuaghy_moLzmnpfkuYvlrZDvvIhHcmltbWNoaWxk77yJMy5wbmc",
+    "name": "格林之子（Grimmchild）3",
+    "file": "./icons/%E6%8A%A4%E7%AC%A6%2B%E6%8A%A4%E7%AC%A6%E6%A7%BD%E5%9B%BE%E6%A0%87/%E6%A0%BC%E6%9E%97%E4%B9%8B%E5%AD%90%EF%BC%88Grimmchild%EF%BC%893.png",
+    "category": "护符+护符槽图标"
+  },
+  {
+    "id": "5oqk56ymK-aKpOespuanveWbvuaghy_moLzmnpfkuYvlrZDvvIhHcmltbWNoaWxk77yJNC5wbmc",
+    "name": "格林之子（Grimmchild）4",
+    "file": "./icons/%E6%8A%A4%E7%AC%A6%2B%E6%8A%A4%E7%AC%A6%E6%A7%BD%E5%9B%BE%E6%A0%87/%E6%A0%BC%E6%9E%97%E4%B9%8B%E5%AD%90%EF%BC%88Grimmchild%EF%BC%894.png",
+    "category": "护符+护符槽图标"
+  },
+  {
+    "id": "5oqk56ymK-aKpOespuanveWbvuaghy_moqbkuYvnm77vvIhEcmVhbXNoaWVsZO-8iS5wbmc",
+    "name": "梦之盾（Dreamshield）",
+    "file": "./icons/%E6%8A%A4%E7%AC%A6%2B%E6%8A%A4%E7%AC%A6%E6%A7%BD%E5%9B%BE%E6%A0%87/%E6%A2%A6%E4%B9%8B%E7%9B%BE%EF%BC%88Dreamshield%EF%BC%89.png",
+    "category": "护符+护符槽图标"
+  },
+  {
+    "id": "5oqk56ymK-aKpOespuanveWbvuaghy_msonph43kuYvlh7vvvIhIZWF2eSBCbG9377yJLnBuZw",
+    "name": "沉重之击（Heavy Blow）",
+    "file": "./icons/%E6%8A%A4%E7%AC%A6%2B%E6%8A%A4%E7%AC%A6%E6%A7%BD%E5%9B%BE%E6%A0%87/%E6%B2%89%E9%87%8D%E4%B9%8B%E5%87%BB%EF%BC%88Heavy%20Blow%EF%BC%89.png",
+    "category": "护符+护符槽图标"
+  },
+  {
+    "id": "5oqk56ymK-aKpOespuanveWbvuaghy_ms5XmnK_mia3mm7LogIXvvIhTcGVsbCBUd2lzdGVy77yJLnBuZw",
+    "name": "法术扭曲者（Spell Twister）",
+    "file": "./icons/%E6%8A%A4%E7%AC%A6%2B%E6%8A%A4%E7%AC%A6%E6%A7%BD%E5%9B%BE%E6%A0%87/%E6%B3%95%E6%9C%AF%E6%89%AD%E6%9B%B2%E8%80%85%EF%BC%88Spell%20Twister%EF%BC%89.png",
+    "category": "护符+护符槽图标"
+  },
+  {
+    "id": "5oqk56ymK-aKpOespuanveWbvuaghy_mt7HluqbogZrpm4bvvIhEZWVwIEZvY3Vz77yJLnBuZw",
+    "name": "深度聚集（Deep Focus）",
+    "file": "./icons/%E6%8A%A4%E7%AC%A6%2B%E6%8A%A4%E7%AC%A6%E6%A7%BD%E5%9B%BE%E6%A0%87/%E6%B7%B1%E5%BA%A6%E8%81%9A%E9%9B%86%EF%BC%88Deep%20Focus%EF%BC%89.png",
+    "category": "护符+护符槽图标"
+  },
+  {
+    "id": "5oqk56ymK-aKpOespuanveWbvuaghy_ngbXprYLmjZXmiYvvvIhTb3VsIENhdGNoZXLvvIkucG5n",
+    "name": "灵魂捕手（Soul Catcher）",
+    "file": "./icons/%E6%8A%A4%E7%AC%A6%2B%E6%8A%A4%E7%AC%A6%E6%A7%BD%E5%9B%BE%E6%A0%87/%E7%81%B5%E9%AD%82%E6%8D%95%E6%89%8B%EF%BC%88Soul%20Catcher%EF%BC%89.png",
+    "category": "护符+护符槽图标"
+  },
+  {
+    "id": "5oqk56ymK-aKpOespuanveWbvuaghy_nlJ_lkb3ooYDkuYvlv4PvvIhMaWZlYmxvb2QgSGVhcnTvvIkucG5n",
+    "name": "生命血之心（Lifeblood Heart）",
+    "file": "./icons/%E6%8A%A4%E7%AC%A6%2B%E6%8A%A4%E7%AC%A6%E6%A7%BD%E5%9B%BE%E6%A0%87/%E7%94%9F%E5%91%BD%E8%A1%80%E4%B9%8B%E5%BF%83%EF%BC%88Lifeblood%20Heart%EF%BC%89.png",
+    "category": "护符+护符槽图标"
+  },
+  {
+    "id": "5oqk56ymK-aKpOespuanveWbvuaghy_nlJ_lkb3ooYDmoLjlv4PvvIhMaWZlYmxvb2QgQ29yZe-8iS5wbmc",
+    "name": "生命血核心（Lifeblood Core）",
+    "file": "./icons/%E6%8A%A4%E7%AC%A6%2B%E6%8A%A4%E7%AC%A6%E6%A7%BD%E5%9B%BE%E6%A0%87/%E7%94%9F%E5%91%BD%E8%A1%80%E6%A0%B8%E5%BF%83%EF%BC%88Lifeblood%20Core%EF%BC%89.png",
+    "category": "护符+护符槽图标"
+  },
+  {
+    "id": "5oqk56ymK-aKpOespuanveWbvuaghy_nqLPlrprkuYvkvZPvvIhTdGVhZHkgQm9kee-8iS5wbmc",
+    "name": "稳定之体（Steady Body）",
+    "file": "./icons/%E6%8A%A4%E7%AC%A6%2B%E6%8A%A4%E7%AC%A6%E6%A7%BD%E5%9B%BE%E6%A0%87/%E7%A8%B3%E5%AE%9A%E4%B9%8B%E4%BD%93%EF%BC%88Steady%20Body%EF%BC%89.png",
+    "category": "护符+护符槽图标"
+  },
+  {
+    "id": "5oqk56ymK-aKpOespuanveWbvuaghy_nvJbnu4fogIXkuYvmrYzvvIhXZWF2ZXJzb25n77yJLnBuZw",
+    "name": "编织者之歌（Weaversong）",
+    "file": "./icons/%E6%8A%A4%E7%AC%A6%2B%E6%8A%A4%E7%AC%A6%E6%A7%BD%E5%9B%BE%E6%A0%87/%E7%BC%96%E7%BB%87%E8%80%85%E4%B9%8B%E6%AD%8C%EF%BC%88Weaversong%EF%BC%89.png",
+    "category": "护符+护符槽图标"
+  },
+  {
+    "id": "5oqk56ymK-aKpOespuanveWbvuaghy_oiJ7moqbogIXvvIhEcmVhbSBXaWVsZGVy77yJLnBuZw",
+    "name": "舞梦者（Dream Wielder）",
+    "file": "./icons/%E6%8A%A4%E7%AC%A6%2B%E6%8A%A4%E7%AC%A6%E6%A7%BD%E5%9B%BE%E6%A0%87/%E8%88%9E%E6%A2%A6%E8%80%85%EF%BC%88Dream%20Wielder%EF%BC%89.png",
+    "category": "护符+护符槽图标"
+  },
+  {
+    "id": "5oqk56ymK-aKpOespuanveWbvuaghy_oi6bnl5vojYbmo5jvvIhUaG9ybnMgb2YgQWdvbnnvvIkucG5n",
+    "name": "苦痛荆棘（Thorns of Agony）",
+    "file": "./icons/%E6%8A%A4%E7%AC%A6%2B%E6%8A%A4%E7%AC%A6%E6%A7%BD%E5%9B%BE%E6%A0%87/%E8%8B%A6%E7%97%9B%E8%8D%86%E6%A3%98%EF%BC%88Thorns%20of%20Agony%EF%BC%89.png",
+    "category": "护符+护符槽图标"
+  },
+  {
+    "id": "5oqk56ymK-aKpOespuanveWbvuaghy_okKjmu6HkuYvnn7PvvIhTaGFtYW4gU3RvbmXvvIkucG5n",
+    "name": "萨满之石（Shaman Stone）",
+    "file": "./icons/%E6%8A%A4%E7%AC%A6%2B%E6%8A%A4%E7%AC%A6%E6%A7%BD%E5%9B%BE%E6%A0%87/%E8%90%A8%E6%BB%A1%E4%B9%8B%E7%9F%B3%EF%BC%88Shaman%20Stone%EF%BC%89.png",
+    "category": "护符+护符槽图标"
+  },
+  {
+    "id": "5oqk56ymK-aKpOespuanveWbvuaghy_omJHoj4flraLlrZDvvIhTcG9yZSBTaHJvb23vvIkucG5n",
+    "name": "蘑菇孢子（Spore Shroom）",
+    "file": "./icons/%E6%8A%A4%E7%AC%A6%2B%E6%8A%A4%E7%AC%A6%E6%A7%BD%E5%9B%BE%E6%A0%87/%E8%98%91%E8%8F%87%E5%AD%A2%E5%AD%90%EF%BC%88Spore%20Shroom%EF%BC%89.png",
+    "category": "护符+护符槽图标"
+  },
+  {
+    "id": "5oqk56ymK-aKpOespuanveWbvuaghy_omZrnqbrkuYvlv4PvvIhWb2lkIEhlYXJ077yJLnBuZw",
+    "name": "虚空之心（Void Heart）",
+    "file": "./icons/%E6%8A%A4%E7%AC%A6%2B%E6%8A%A4%E7%AC%A6%E6%A7%BD%E5%9B%BE%E6%A0%87/%E8%99%9A%E7%A9%BA%E4%B9%8B%E5%BF%83%EF%BC%88Void%20Heart%EF%BC%89.png",
+    "category": "护符+护符槽图标"
+  },
+  {
+    "id": "5oqk56ymK-aKpOespuanveWbvuaghy_onILlt6LkuYvooYDvvIhIaXZlYmxvb2TvvIkucG5n",
+    "name": "蜂巢之血（Hiveblood）",
+    "file": "./icons/%E6%8A%A4%E7%AC%A6%2B%E6%8A%A4%E7%AC%A6%E6%A7%BD%E5%9B%BE%E6%A0%87/%E8%9C%82%E5%B7%A2%E4%B9%8B%E8%A1%80%EF%BC%88Hiveblood%EF%BC%89.png",
+    "category": "护符+护符槽图标"
+  },
+  {
+    "id": "5oqk56ymK-aKpOespuanveWbvuaghy_onILnvqTpm4bnu5PvvIhHYXRoZXJpbmcgU3dhcm3vvIkucG5n",
+    "name": "蜂群集结（Gathering Swarm）",
+    "file": "./icons/%E6%8A%A4%E7%AC%A6%2B%E6%8A%A4%E7%AC%A6%E6%A7%BD%E5%9B%BE%E6%A0%87/%E8%9C%82%E7%BE%A4%E9%9B%86%E7%BB%93%EF%BC%88Gathering%20Swarm%EF%BC%89.png",
+    "category": "护符+护符槽图标"
+  },
+  {
+    "id": "5oqk56ymK-aKpOespuanveWbvuaghy_onJXlj5jmjL3mrYzvvIhHcnViYmVyZmx5J3MgRWxlZ3nvvIkucG5n",
+    "name": "蜕变挽歌（Grubberfly's Elegy）",
+    "file": "./icons/%E6%8A%A4%E7%AC%A6%2B%E6%8A%A4%E7%AC%A6%E6%A7%BD%E5%9B%BE%E6%A0%87/%E8%9C%95%E5%8F%98%E6%8C%BD%E6%AD%8C%EF%BC%88Grubberfly%27s%20Elegy%EF%BC%89.png",
+    "category": "护符+护符槽图标"
+  },
+  {
+    "id": "5oqk56ymK-aKpOespuanveWbvuaghy_plIvliKnkuYvlvbHvvIhTaGFycCBTaGFkb3fvvIkucG5n",
+    "name": "锋利之影（Sharp Shadow）",
+    "file": "./icons/%E6%8A%A4%E7%AC%A6%2B%E6%8A%A4%E7%AC%A6%E6%A7%BD%E5%9B%BE%E6%A0%87/%E9%94%8B%E5%88%A9%E4%B9%8B%E5%BD%B1%EF%BC%88Sharp%20Shadow%EF%BC%89.png",
+    "category": "护符+护符槽图标"
+  },
+  {
+    "id": "5oqk56ymK-aKpOespuanveWbvuaghy_pmLLlvqHogIXnurnnq6DvvIhEZWZlbmRlcidzIENyZXN077yJLnBuZw",
+    "name": "防御者纹章（Defender's Crest）",
+    "file": "./icons/%E6%8A%A4%E7%AC%A6%2B%E6%8A%A4%E7%AC%A6%E6%A7%BD%E5%9B%BE%E6%A0%87/%E9%98%B2%E5%BE%A1%E8%80%85%E7%BA%B9%E7%AB%A0%EF%BC%88Defender%27s%20Crest%EF%BC%89.png",
+    "category": "护符+护符槽图标"
+  },
+  {
+    "id": "5oqk56ymK-aKpOespuanveWbvuaghy_po57mr5vohb_vvIhTcHJpbnRtYXN0ZXLvvIkucG5n",
+    "name": "飞毛腿（Sprintmaster）",
+    "file": "./icons/%E6%8A%A4%E7%AC%A6%2B%E6%8A%A4%E7%AC%A6%E6%A7%BD%E5%9B%BE%E6%A0%87/%E9%A3%9E%E6%AF%9B%E8%85%BF%EF%BC%88Sprintmaster%EF%BC%89.png",
+    "category": "护符+护符槽图标"
+  },
+  {
+    "id": "5oqk56ymK-aKpOespuanveWbvuaghy_pqoTlgrLljbDorrDvvIhNYXJrIG9mIFByaWRl77yJLnBuZw",
+    "name": "骄傲印记（Mark of Pride）",
+    "file": "./icons/%E6%8A%A4%E7%AC%A6%2B%E6%8A%A4%E7%AC%A6%E6%A7%BD%E5%9B%BE%E6%A0%87/%E9%AA%84%E5%82%B2%E5%8D%B0%E8%AE%B0%EF%BC%88Mark%20of%20Pride%EF%BC%89.png",
+    "category": "护符+护符槽图标"
+  },
+  {
+    "id": "5oqk56ymK-aKpOespuanveWbvuaghy_pqqjpkonlpKfluIjnmoTojaPogIDvvIhOYWlsbWFzdGVyJ3MgR2xvcnnvvIkucG5n",
+    "name": "骨钉大师的荣耀（Nailmaster's Glory）",
+    "file": "./icons/%E6%8A%A4%E7%AC%A6%2B%E6%8A%A4%E7%AC%A6%E6%A7%BD%E5%9B%BE%E6%A0%87/%E9%AA%A8%E9%92%89%E5%A4%A7%E5%B8%88%E7%9A%84%E8%8D%A3%E8%80%80%EF%BC%88Nailmaster%27s%20Glory%EF%BC%89.png",
+    "category": "护符+护符槽图标"
+  },
+  {
+    "id": "5pS26ZuG54mpL0dyaW1tX2NoYXJtX2ZsYW1lICM2NzA3LnBuZw",
+    "name": "Grimm_charm_flame #6707",
+    "file": "./icons/%E6%94%B6%E9%9B%86%E7%89%A9/Grimm_charm_flame%20%236707.png",
+    "category": "收集物"
+  },
+  {
+    "id": "5pS26ZuG54mpL0dyaW1tX2NoYXJtX2ZsYW1lX2Zyb250ICM0NjM2LnBuZw",
+    "name": "Grimm_charm_flame_front #4636",
+    "file": "./icons/%E6%94%B6%E9%9B%86%E7%89%A9/Grimm_charm_flame_front%20%234636.png",
+    "category": "收集物"
+  },
+  {
+    "id": "5pS26ZuG54mpL0dydWIud2VicA",
+    "name": "Grub",
+    "file": "./icons/%E6%94%B6%E9%9B%86%E7%89%A9/Grub.webp",
+    "category": "收集物"
+  },
+  {
+    "id": "5pS26ZuG54mpL2ludl9pdGVtX2NpdHlfa2V5ICM2NDA0LnBuZw",
+    "name": "inv_item_city_key #6404",
+    "file": "./icons/%E6%94%B6%E9%9B%86%E7%89%A9/inv_item_city_key%20%236404.png",
+    "category": "收集物"
+  },
+  {
+    "id": "icon_1785405374084_vaadeh",
+    "name": "典雅的钥匙",
+    "file": "./icons/%E6%94%B6%E9%9B%86%E7%89%A9/%E5%85%B8%E9%9B%85%E7%9A%84%E9%92%A5%E5%8C%99.webp",
+    "category": "收集物"
+  },
+  {
+    "id": "5pS26ZuG54mpL-WbveeOi-S5i-mtgi3lj7MucG5n",
+    "name": "国王之魂-右",
+    "file": "./icons/%E6%94%B6%E9%9B%86%E7%89%A9/%E5%9B%BD%E7%8E%8B%E4%B9%8B%E9%AD%82-%E5%8F%B3.png",
+    "category": "收集物"
+  },
+  {
+    "id": "5pS26ZuG54mpL-WbveeOi-S5i-mtgi3lt6YucG5n",
+    "name": "国王之魂-左",
+    "file": "./icons/%E6%94%B6%E9%9B%86%E7%89%A9/%E5%9B%BD%E7%8E%8B%E4%B9%8B%E9%AD%82-%E5%B7%A6.png",
+    "category": "收集物"
+  },
+  {
+    "id": "icon_1785754751055_zcog64",
+    "name": "国王印记",
+    "file": "./icons/%E6%94%B6%E9%9B%86%E7%89%A9/%E5%9B%BD%E7%8E%8B%E5%8D%B0%E8%AE%B0.webp",
+    "category": "收集物"
+  },
+  {
+    "id": "5pS26ZuG54mpL2ludl9pdGVtX18wMDEwX0tpbmdzX2lkb2wgIzQ2NjQucG5n",
+    "name": "国王神像",
+    "file": "./icons/%E6%94%B6%E9%9B%86%E7%89%A9/%E5%9B%BD%E7%8E%8B%E7%A5%9E%E5%83%8F.png",
+    "category": "收集物"
+  },
+  {
+    "id": "5pS26ZuG54mpL2ludl9pdGVtX18wMDEyX2hhbGxvd25lc3Qtc2VhbCAjNTA0OS5wbmc",
+    "name": "圣巢印章",
+    "file": "./icons/%E6%94%B6%E9%9B%86%E7%89%A9/%E5%9C%A3%E5%B7%A2%E5%8D%B0%E7%AB%A0.png",
+    "category": "收集物"
+  },
+  {
+    "id": "5pS26ZuG54mpL-W5vOiZq-Wbvuaghy5wbmc",
+    "name": "幼虫图标",
+    "file": "./icons/%E6%94%B6%E9%9B%86%E7%89%A9/%E5%B9%BC%E8%99%AB%E5%9B%BE%E6%A0%87.png",
+    "category": "收集物"
+  },
+  {
+    "id": "5pS26ZuG54mpL2ludl9pdGVtX18wMDAyX3N0b3Jlcm9vbV9rZXkgIzU5MDMucG5n",
+    "name": "店主的钥匙",
+    "file": "./icons/%E6%94%B6%E9%9B%86%E7%89%A9/%E5%BA%97%E4%B8%BB%E7%9A%84%E9%92%A5%E5%8C%99.png",
+    "category": "收集物"
+  },
+  {
+    "id": "5pS26ZuG54mpL-aKpOespuanveWbvuaghy5wbmc",
+    "name": "护符槽图标",
+    "file": "./icons/%E6%94%B6%E9%9B%86%E7%89%A9/%E6%8A%A4%E7%AC%A6%E6%A7%BD%E5%9B%BE%E6%A0%87.png",
+    "category": "收集物"
+  },
+  {
+    "id": "5pS26ZuG54mpL-aipuS5i-agkeWbvuaghy5wbmc",
+    "name": "梦之树图标",
+    "file": "./icons/%E6%94%B6%E9%9B%86%E7%89%A9/%E6%A2%A6%E4%B9%8B%E6%A0%91%E5%9B%BE%E6%A0%87.png",
+    "category": "收集物"
+  },
+  {
+    "id": "icon_1785478216440_vaalw0",
+    "name": "梦之钉子",
+    "file": "./icons/%E6%94%B6%E9%9B%86%E7%89%A9/%E6%A2%A6%E4%B9%8B%E9%92%89%E5%AD%90.png",
+    "category": "收集物"
+  },
+  {
+    "id": "5pS26ZuG54mpL2ludl9pdGVtX18wMDEzX3dhbmRlcmVycy1qb3VybmFsICM2NTIxLnBuZw",
+    "name": "漫游者日记",
+    "file": "./icons/%E6%94%B6%E9%9B%86%E7%89%A9/%E6%BC%AB%E6%B8%B8%E8%80%85%E6%97%A5%E8%AE%B0.png",
+    "category": "收集物"
+  },
+  {
+    "id": "5pS26ZuG54mpL-eBtemtgueijueJhy5wbmc",
+    "name": "灵魂碎片",
+    "file": "./icons/%E6%94%B6%E9%9B%86%E7%89%A9/%E7%81%B5%E9%AD%82%E7%A2%8E%E7%89%87.png",
+    "category": "收集物"
+  },
+  {
+    "id": "5pS26ZuG54mpL2ludl9Mb3ZlX0tleSAjNTQwNy5wbmc",
+    "name": "爱之匙",
+    "file": "./icons/%E6%94%B6%E9%9B%86%E7%89%A9/%E7%88%B1%E4%B9%8B%E5%8C%99.png",
+    "category": "收集物"
+  },
+  {
+    "id": "5pS26ZuG54mpL2ludl9pdGVtX18wMDAxX3RyYW1fcGFzcyAjNDkyMi5wbmc",
+    "name": "电车通行证",
+    "file": "./icons/%E6%94%B6%E9%9B%86%E7%89%A9/%E7%94%B5%E8%BD%A6%E9%80%9A%E8%A1%8C%E8%AF%81.png",
+    "category": "收集物"
+  },
+  {
+    "id": "icon_1785755886169_zqx2jh",
+    "name": "神秘蛋",
+    "file": "./icons/%E6%94%B6%E9%9B%86%E7%89%A9/%E7%A5%9E%E7%A7%98%E8%9B%8B.webp",
+    "category": "收集物"
+  },
+  {
+    "id": "5pS26ZuG54mpL2ludl9pdGVtX18wMDAxNF9ncmF2ZXlhcmRfa2V5ICM2NzU1LnBuZw",
+    "name": "简单钥匙",
+    "file": "./icons/%E6%94%B6%E9%9B%86%E7%89%A9/%E7%AE%80%E5%8D%95%E9%92%A5%E5%8C%99.png",
+    "category": "收集物"
+  },
+  {
+    "id": "5pS26ZuG54mpL2ludl9yYW5jaWRfZWdnICM1NDc0LnBuZw",
+    "name": "腐臭蛋",
+    "file": "./icons/%E6%94%B6%E9%9B%86%E7%89%A9/%E8%85%90%E8%87%AD%E8%9B%8B.png",
+    "category": "收集物"
+  },
+  {
+    "id": "5pS26ZuG54mpL-iLjeeZveefv-efsy5wbmc",
+    "name": "苍白矿石",
+    "file": "./icons/%E6%94%B6%E9%9B%86%E7%89%A9/%E8%8B%8D%E7%99%BD%E7%9F%BF%E7%9F%B3.png",
+    "category": "收集物"
+  },
+  {
+    "id": "icon_1785756092431_tq98nz",
+    "name": "虚空之心（Void Heart）",
+    "file": "./icons/%E6%94%B6%E9%9B%86%E7%89%A9/%E8%99%9A%E7%A9%BA%E4%B9%8B%E5%BF%83%EF%BC%88Void%20Heart%EF%BC%89.png",
+    "category": "收集物"
+  },
+  {
+    "id": "5pS26ZuG54mpL-mdouWFt-eijueJhy5wbmc",
+    "name": "面具碎片",
+    "file": "./icons/%E6%94%B6%E9%9B%86%E7%89%A9/%E9%9D%A2%E5%85%B7%E7%A2%8E%E7%89%87.png",
+    "category": "收集物"
+  },
+  {
+    "id": "icon_1785399479072_a0aici",
+    "name": "Inventory_soul_vessel_level_01 #3280",
+    "file": "./icons/%E8%87%AA%E5%AE%9A%E4%B9%89/Inventory_soul_vessel_level_01%20%233280.png",
+    "category": "自定义"
+  },
+  {
+    "id": "asset_6Ieq5a6a5LmJL3NseS3lnKjllYblupcud2VicA",
+    "name": "sly-在商店",
+    "file": "./icons/%E8%87%AA%E5%AE%9A%E4%B9%89/sly-%E5%9C%A8%E5%95%86%E5%BA%97.webp",
+    "category": "自定义"
+  },
+  {
+    "id": "asset_6Ieq5a6a5LmJL-S5jOaBqe-8iFVubu-8iS53ZWJw",
+    "name": "乌恩（Unn）",
+    "file": "./icons/%E8%87%AA%E5%AE%9A%E4%B9%89/%E4%B9%8C%E6%81%A9%EF%BC%88Unn%EF%BC%89.webp",
+    "category": "自定义"
+  },
+  {
+    "id": "asset_6Ieq5a6a5LmJL-WFuOmbheeahOmSpeWMmS53ZWJw",
+    "name": "典雅的钥匙",
+    "file": "./icons/%E8%87%AA%E5%AE%9A%E4%B9%89/%E5%85%B8%E9%9B%85%E7%9A%84%E9%92%A5%E5%8C%99.webp",
+    "category": "自定义"
+  },
+  {
+    "id": "asset_6Ieq5a6a5LmJL-WbveeOi-WNsOiusC53ZWJw",
+    "name": "国王印记",
+    "file": "./icons/%E8%87%AA%E5%AE%9A%E4%B9%89/%E5%9B%BD%E7%8E%8B%E5%8D%B0%E8%AE%B0.webp",
+    "category": "自定义"
+  },
+  {
+    "id": "asset_6Ieq5a6a5LmJL-aipuS5i-mSieWtkC5wbmc",
+    "name": "梦之钉子",
+    "file": "./icons/%E8%87%AA%E5%AE%9A%E4%B9%89/%E6%A2%A6%E4%B9%8B%E9%92%89%E5%AD%90.png",
+    "category": "自定义"
+  },
+  {
+    "id": "asset_6Ieq5a6a5LmJL-a4qeazieWbvuaghy5wbmc",
+    "name": "温泉图标",
+    "file": "./icons/%E8%87%AA%E5%AE%9A%E4%B9%89/%E6%B8%A9%E6%B3%89%E5%9B%BE%E6%A0%87.png",
+    "category": "自定义"
+  },
+  {
+    "id": "asset_6Ieq5a6a5LmJL-eUn-WRveihgOiMp-Wbvuaghy5wbmc",
+    "name": "生命血茧图标",
+    "file": "./icons/%E8%87%AA%E5%AE%9A%E4%B9%89/%E7%94%9F%E5%91%BD%E8%A1%80%E8%8C%A7%E5%9B%BE%E6%A0%87.png",
+    "category": "自定义"
+  },
+  {
+    "id": "asset_6Ieq5a6a5LmJL-elnuenmOibiy53ZWJw",
+    "name": "神秘蛋",
+    "file": "./icons/%E8%87%AA%E5%AE%9A%E4%B9%89/%E7%A5%9E%E7%A7%98%E8%9B%8B.webp",
+    "category": "自定义"
+  },
+  {
+    "id": "asset_6Ieq5a6a5LmJL-iZmuepuuS5i-W_g--8iFZvaWQgSGVhcnTvvIkucG5n",
+    "name": "虚空之心（Void Heart）",
+    "file": "./icons/%E8%87%AA%E5%AE%9A%E4%B9%89/%E8%99%9A%E7%A9%BA%E4%B9%8B%E5%BF%83%EF%BC%88Void%20Heart%EF%BC%89.png",
+    "category": "自定义"
+  },
+  {
+    "id": "asset_6Ieq5a6a5LmJL-m5v-inkuiZq-i9puermeWbvuaghy5wbmc",
+    "name": "鹿角虫车站图标",
+    "file": "./icons/%E8%87%AA%E5%AE%9A%E4%B9%89/%E9%B9%BF%E8%A7%92%E8%99%AB%E8%BD%A6%E7%AB%99%E5%9B%BE%E6%A0%87.png",
+    "category": "自定义"
+  }
+]
