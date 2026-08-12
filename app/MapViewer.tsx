@@ -9,8 +9,6 @@ const MAX_SCALE = 4;
 const MAP_EDGE_DRAG_ALLOWANCE = 180;
 const MAP_DRAG_RIGHT_ALLOWANCE = 220;
 const COMPLETION_STORAGE_KEY = "hk-map-client-completed-markers-v1";
-const REGION_LABEL_LAYOUT_STORAGE_KEY = "hk-map-region-label-layouts-v1";
-const CHINESE_REGION_SIZE_MIGRATION_KEY = "hk-map-chinese-region-size-34-v1";
 const COMPLETABLE_PRIMARY_CATEGORIES = new Set(["装备", "收集物", "Boss"]);
 const HIGHLIGHT_LEADING_ICONS: Record<string, { src: string; alt: string }> = {
   "收藏家(The Collector)": {
@@ -64,149 +62,149 @@ function getPopupEmbeddedItemIcons(markerName: string) {
 }
 
 const MAP_REGION_LABELS = [
-  { name: "安息之地", x: 87.322, y: 26.355, width: 367 },
-  { name: "苍绿之径", x: 14.867, y: 29.354, width: 266 },
-  { name: "德特茅斯", x: 44.645, y: 15.873, width: 247 },
-  { name: "蜂巢", x: 88.926, y: 70.658, width: 108 },
-  { name: "古老盆地", x: 54.321, y: 75.947, width: 127 },
-  { name: "呼啸悬崖", x: 21.773, y: 12.311, width: 144 },
-  { name: "皇家水道", x: 54.447, y: 69.059, width: 323 },
-  { name: "泪水之城", x: 70.134, y: 42.571, width: 258 },
-  { name: "深邃巢穴", x: 19.638, y: 71.445, width: 228 },
-  { name: "深渊", x: 63.884, y: 91.573, width: 137 },
-  { name: "水晶山峰", x: 65.251, y: 11.31, width: 182 },
-  { name: "王国边缘", x: 91.148, y: 50.942, width: 173 },
-  { name: "王后花园", x: 22.102, y: 52.94, width: 371 },
-  { name: "雾之峡谷", x: 36.643, y: 44.546, width: 248 },
-  { name: "遗忘十字路", x: 52.442, y: 35.876, width: 249 },
-  { name: "真菌荒地", x: 46.767, y: 51.717, width: 270 },
+  { name: "安息之地", x: 86.66536591142382, y: 26.28359439785804, width: 247.6860497137325 },
+  { name: "苍绿之径", x: 15.442728928441607, y: 29.999799651132363, width: 157.2709899208236 },
+  { name: "德特茅斯", x: 45.86295753786005, y: 15.908776357191984, width: 158.39636654279715 },
+  { name: "蜂巢", x: 89.34002094557405, y: 71.09607673624343, width: 60.917022117874055 },
+  { name: "古老盆地", x: 55.86707220139323, y: 76.60296542521503, width: 97.69645765128404 },
+  { name: "呼啸悬崖", x: 22.751733160325944, y: 12.10722981616994, width: 100.14645157282047 },
+  { name: "皇家水道", x: 52.89712764142594, y: 69.83233971688021, width: 217.33382777905348 },
+  { name: "泪水之城", x: 71.25786517349891, y: 42.259359842494376, width: 177.98783007084415 },
+  { name: "深邃巢穴", x: 20.407970695365368, y: 72.92179718721492, width: 141.8238910919086 },
+  { name: "深渊", x: 63.876684486883576, y: 91.69862967588894, width: 95.70426998388045 },
+  { name: "水晶山峰", x: 68.43885457493207, y: 11.16350650630222, width: 123.72186940153742 },
+  { name: "王国边缘", x: 92.11757378460435, y: 52.104302444856145, width: 120.48014411096324 },
+  { name: "王后花园", x: 22.675562289718666, y: 54.39136519352509, width: 213.97067892899906 },
+  { name: "雾之峡谷", x: 36.86417418397123, y: 46.09668784721114, width: 158.4420779380419 },
+  { name: "遗忘十字路", x: 53.41074811445003, y: 36.9669280354921, width: 151.15727882005683 },
+  { name: "真菌荒地", x: 47.57314590450625, y: 52.47152762578902, width: 160.49061167533208 },
 ] as const;
 
 const MAP_REGION_CHINESE_LABELS = [
   {
     name: "安息之地",
-    x: 87.322,
-    y: 26.355 - (46 / MAP_HEIGHT) * 100,
+    x: 85.3521074513571,
+    y: 24.918570700106073,
     size: 34,
     edgeGlow: "#D6BD91",
     fogGlow: "#8B765B",
   },
   {
     name: "苍绿之径",
-    x: 14.867,
-    y: 29.354 - (49 / MAP_HEIGHT) * 100,
+    x: 14.657857433838586,
+    y: 28.700882799683423,
     size: 34,
     edgeGlow: "#66B681",
     fogGlow: "#276B58",
   },
   {
     name: "德特茅斯",
-    x: 44.645,
-    y: 15.873 - (46 / MAP_HEIGHT) * 100,
+    x: 44.764874101008175,
+    y: 14.641692149478349,
     size: 34,
     edgeGlow: "#7898B8",
     fogGlow: "#334A63",
   },
   {
     name: "蜂巢",
-    x: 88.926,
-    y: 70.658 - (46 / MAP_HEIGHT) * 100,
+    x: 88.92130311225681,
+    y: 69.96475246672968,
     size: 34,
     edgeGlow: "#E4A33C",
     fogGlow: "#8A561C",
   },
   {
     name: "古老盆地",
-    x: 54.321,
-    y: 75.947 - (50 / MAP_HEIGHT) * 100,
+    x: 54.501434055540166,
+    y: 75.27703560711458,
     size: 34,
     edgeGlow: "#75859A",
     fogGlow: "#3F4B5D",
   },
   {
     name: "呼啸悬崖",
-    x: 21.773,
-    y: 12.311 - (55 / MAP_HEIGHT) * 100,
+    x: 21.86620939002313,
+    y: 10.685347940510908,
     size: 34,
     edgeGlow: "#7895AD",
     fogGlow: "#40586C",
   },
   {
     name: "皇家水道",
-    x: 54.447,
-    y: 69.059 - (43 / MAP_HEIGHT) * 100,
+    x: 51.924619445932215,
+    y: 68.63790306347927,
     size: 34,
     edgeGlow: "#55A6AD",
     fogGlow: "#27666B",
   },
   {
     name: "泪水之城",
-    x: 70.134,
-    y: 42.571 - (45 / MAP_HEIGHT) * 100,
+    x: 70.41739922113157,
+    y: 41.028155438152716,
     size: 34,
     edgeGlow: "#68AEE8",
     fogGlow: "#245B9D",
   },
   {
     name: "深邃巢穴",
-    x: 19.638,
-    y: 71.445 - (48 / MAP_HEIGHT) * 100,
+    x: 19.699381709768293,
+    y: 71.67632630023877,
     size: 34,
     edgeGlow: "#665584",
     fogGlow: "#30283F",
   },
   {
     name: "深渊",
-    x: 63.884,
-    y: 91.573 - (55 / MAP_HEIGHT) * 100,
+    x: 63.41528231112999,
+    y: 90.27449595758127,
     size: 34,
     edgeGlow: "#858D9A",
     fogGlow: "#252A32",
   },
   {
     name: "水晶山峰",
-    x: 65.251,
-    y: 11.31 - (54 / MAP_HEIGHT) * 100,
+    x: 67.46435587217904,
+    y: 9.836156194766428,
     size: 34,
     edgeGlow: "#B67AD2",
     fogGlow: "#713F91",
   },
   {
     name: "王国边缘",
-    x: 91.148,
-    y: 50.942 - (55 / MAP_HEIGHT) * 100,
+    x: 91.18699259512933,
+    y: 50.60566328770141,
     size: 34,
     edgeGlow: "#AE8553",
     fogGlow: "#5D4632",
   },
   {
     name: "王后花园",
-    x: 22.102,
-    y: 52.94 - (52 / MAP_HEIGHT) * 100,
+    x: 21.816950057743252,
+    y: 53.075262730100256,
     size: 34,
     edgeGlow: "#69AE8A",
     fogGlow: "#326E58",
   },
   {
     name: "雾之峡谷",
-    x: 36.643,
-    y: 44.546 - (46 / MAP_HEIGHT) * 100,
+    x: 36.33625772817655,
+    y: 44.87088415244825,
     size: 34,
     edgeGlow: "#E49AD8",
     fogGlow: "#9B4F91",
   },
   {
     name: "遗忘十字路",
-    x: 52.442,
-    y: 35.876 - (53 / MAP_HEIGHT) * 100,
+    x: 52.33168507928329,
+    y: 35.58736031600548,
     size: 34,
     edgeGlow: "#8295A8",
     fogGlow: "#46596B",
   },
   {
     name: "真菌荒地",
-    x: 46.767,
-    y: 51.717 - (45 / MAP_HEIGHT) * 100,
+    x: 46.70067940403373,
+    y: 51.28202778920774,
     size: 34,
     edgeGlow: "#C8A65A",
     fogGlow: "#75652E",
@@ -1139,50 +1137,12 @@ export default function MapViewer() {
     return () => controller.abort();
   }, []);
 
-  useEffect(() => {
-    try {
-      const saved = JSON.parse(
-        localStorage.getItem(REGION_LABEL_LAYOUT_STORAGE_KEY) ?? "{}",
-      ) as Partial<RegionLabelLayouts>;
-      const next = { ...INITIAL_REGION_LABEL_LAYOUTS };
-      for (const [labelId, layout] of Object.entries(saved)) {
-        if (
-          next[labelId] &&
-          layout &&
-          typeof layout.x === "number" &&
-          typeof layout.y === "number" &&
-          typeof layout.size === "number"
-        ) {
-          next[labelId] = layout;
-        }
-      }
-      if (!localStorage.getItem(CHINESE_REGION_SIZE_MIGRATION_KEY)) {
-        for (const labelId of Object.keys(next)) {
-          if (labelId.startsWith("text:")) {
-            next[labelId] = { ...next[labelId], size: 34 };
-          }
-        }
-        localStorage.setItem(REGION_LABEL_LAYOUT_STORAGE_KEY, JSON.stringify(next));
-        localStorage.setItem(CHINESE_REGION_SIZE_MIGRATION_KEY, "1");
-      }
-      setRegionLabelLayouts(next);
-    } catch (error) {
-      console.error("无法读取区域名称布局", error);
-    }
-  }, []);
-
   const updateRegionLabelLayout = (
     labelId: string,
     layout: RegionLabelLayout,
   ) => {
     setRegionLabelLayouts((current) => {
-      const next = { ...current, [labelId]: layout };
-      try {
-        localStorage.setItem(REGION_LABEL_LAYOUT_STORAGE_KEY, JSON.stringify(next));
-      } catch (error) {
-        console.error("无法保存区域名称布局", error);
-      }
-      return next;
+      return { ...current, [labelId]: layout };
     });
   };
 
