@@ -1,0 +1,46 @@
+name: Build Windows portable test version
+
+on:
+  workflow_dispatch:
+  push:
+    tags:
+      - "desktop-v*"
+
+permissions:
+  contents: read
+
+jobs:
+  build-windows:
+    runs-on: windows-latest
+    timeout-minutes: 30
+
+    steps:
+      - name: Checkout source
+        uses: actions/checkout@v4
+
+      - name: Use Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Build offline web app
+        run: npm run desktop:web
+        env:
+          DESKTOP_BUILD: "1"
+
+      - name: Package Windows portable app
+        run: npm run desktop:pack:win
+        env:
+          CSC_IDENTITY_AUTO_DISCOVERY: "false"
+
+      - name: Upload portable app
+        uses: actions/upload-artifact@v4
+        with:
+          name: Hollow-Knight-Map-Windows-x64-Portable
+          path: release/*.exe
+          if-no-files-found: error
+          retention-days: 30

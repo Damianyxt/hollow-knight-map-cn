@@ -1,7 +1,8 @@
 {
-  "name": "site-creator-vinext-starter",
+  "name": "hollow-knight-map-cn",
   "version": "0.1.0",
   "private": true,
+  "main": "electron/main.cjs",
   "engines": {
     "node": ">=22.13.0"
   },
@@ -12,6 +13,8 @@
     "test": "npm run build && node --test tests/rendered-html.test.mjs",
     "lint": "eslint . --ignore-pattern dist --ignore-pattern .next",
     "db:generate": "drizzle-kit generate"
+    ,"desktop:web": "next build"
+    ,"desktop:pack:win": "electron-builder --win portable --x64"
   },
   "dependencies": {
     "drizzle-orm": "0.45.2",
@@ -30,6 +33,8 @@
     "drizzle-kit": "0.31.10",
     "eslint": "9.39.4",
     "eslint-config-next": "16.2.6",
+    "electron": "42.8.0",
+    "electron-builder": "26.15.7",
     "react-server-dom-webpack": "19.2.6",
     "tailwindcss": "4.2.1",
     "typescript": "5.9.3",
@@ -37,5 +42,27 @@
     "vite": "8.0.13",
     "wrangler": "4.92.0"
   },
-  "type": "module"
+  "type": "module",
+  "build": {
+    "appId": "cn.hollowknight.map.test",
+    "productName": "空洞骑士地图客户端（测试版）",
+    "asar": true,
+    "directories": {
+      "output": "release"
+    },
+    "files": [
+      "electron/**/*",
+      "out/**/*",
+      "package.json"
+    ],
+    "win": {
+      "target": [
+        {
+          "target": "portable",
+          "arch": ["x64"]
+        }
+      ],
+      "artifactName": "Hollow-Knight-Map-Test-${version}-Windows-x64-Portable.${ext}"
+    }
+  }
 }
