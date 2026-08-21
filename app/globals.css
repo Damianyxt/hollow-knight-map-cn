@@ -44,7 +44,7 @@ body {
   max-height: calc(100vh - 28px);
   flex-direction: column;
   overflow: hidden;
-  color: #eceff2;
+  color: #f4f2ee;
   background:
     radial-gradient(circle at 50% -20%, rgba(139, 153, 170, 0.12), transparent 42%),
     linear-gradient(180deg, rgba(18, 22, 29, 0.97), rgba(10, 13, 18, 0.97));
@@ -139,6 +139,7 @@ body {
 
 .map-filter-header h1 {
   margin: 0;
+  color: #f4f2ee;
   font-size: 18px;
   font-weight: 700;
   line-height: 1.35;
@@ -148,8 +149,8 @@ body {
 
 .map-filter-header p {
   margin: 2px 0 0;
-  color: rgba(213, 220, 229, 0.57);
-  font-size: 13px;
+  color: rgba(244, 242, 238, 0.65);
+  font-size: 12px;
   font-weight: 400;
 }
 
@@ -184,7 +185,7 @@ body {
   padding: 0;
   border: 0;
   outline: 0;
-  color: #f0f3f6;
+  color: rgba(244, 242, 238, 0.88);
   background: transparent;
   font: inherit;
   font-size: 14px;
@@ -193,7 +194,7 @@ body {
 }
 
 .map-filter-search input::placeholder {
-  color: rgba(210, 219, 228, 0.4);
+  color: rgba(244, 242, 238, 0.65);
 }
 
 .map-filter-search input::-webkit-search-cancel-button {
@@ -206,17 +207,17 @@ body {
   padding: 5px 8px;
   border: 0;
   border-radius: 6px;
-  color: rgba(213, 220, 229, 0.58);
+  color: rgba(244, 242, 238, 0.65);
   background: transparent;
   font: inherit;
-  font-size: 13px;
-  font-weight: 400;
+  font-size: 14px;
+  font-weight: 600;
   cursor: pointer;
 }
 
 .map-filter-search button:hover,
 .map-filter-search button:focus-visible {
-  color: #ffffff;
+  color: rgba(244, 242, 238, 0.88);
   background: rgba(216, 226, 238, 0.08);
   outline: none;
 }
@@ -237,7 +238,7 @@ body {
   color: rgba(244, 242, 238, 0.65);
   background: transparent;
   font: inherit;
-  font-size: 12px;
+  font-size: 14px;
   font-weight: 600;
   cursor: pointer;
   transition:
@@ -303,8 +304,8 @@ body {
 .map-filter-category-page header h2 {
   margin: 0;
   padding: 0;
-  color: #f5f7fa;
-  font-size: 17px;
+  color: #f4f2ee;
+  font-size: 14px;
   font-weight: 600;
   line-height: 1.35;
   text-shadow:
@@ -326,8 +327,9 @@ body {
   padding: 7px 0 7px 9px;
   border-top: 1px solid rgba(210, 221, 233, 0.15);
   border-bottom: 1px solid rgba(210, 221, 233, 0.15);
-  color: rgba(239, 243, 248, 0.9);
-  font-size: 13px;
+  color: rgba(244, 242, 238, 0.88);
+  font-size: 14px;
+  font-weight: 400;
 }
 
 .map-filter-focus-nav > span {
@@ -340,7 +342,7 @@ body {
 
 .map-filter-focus-nav > span small {
   margin-left: 4px;
-  color: rgba(207, 216, 226, 0.55);
+  color: rgba(244, 242, 238, 0.65);
   font-size: 12px;
   line-height: 25px;
 }
@@ -359,7 +361,7 @@ body {
   padding: 0 7px;
   border: 1px solid rgba(210, 221, 233, 0.22);
   border-radius: 3px;
-  color: rgba(239, 243, 248, 0.82);
+  color: rgba(244, 242, 238, 0.65);
   background: rgba(32, 40, 50, 0.72);
   font: inherit;
   cursor: pointer;
@@ -368,15 +370,16 @@ body {
 .map-filter-focus-nav button:hover,
 .map-filter-focus-nav button:focus-visible {
   border-color: rgba(225, 234, 243, 0.45);
-  color: #fff;
+  color: rgba(244, 242, 238, 0.88);
   background: rgba(48, 58, 70, 0.82);
   outline: none;
 }
 
 .map-filter-focus-nav strong {
   min-width: 36px;
-  color: rgba(232, 238, 244, 0.72);
+  color: rgba(244, 242, 238, 0.65);
   font-size: 12px;
+  font-weight: 400;
   line-height: 25px;
   text-align: center;
 }
@@ -410,12 +413,12 @@ body {
   padding: 0 8px;
   border: 0;
   border-radius: 5px;
-  color: rgba(213, 220, 229, 0.58);
+  color: rgba(244, 242, 238, 0.65);
   background: transparent;
   box-shadow: none;
   font: inherit;
-  font-size: 13px;
-  font-weight: 400;
+  font-size: 14px;
+  font-weight: 600;
   line-height: 25px;
   cursor: pointer;
 }
@@ -427,7 +430,7 @@ body {
 .map-filter-focus-nav .map-filter-text-action:hover,
 .map-filter-focus-nav .map-filter-text-action:focus-visible {
   border: 0;
-  color: #ffffff;
+  color: rgba(244, 242, 238, 0.88);
   background: rgba(216, 226, 238, 0.08);
   box-shadow: none;
   outline: none;
@@ -437,14 +440,14 @@ body {
   display: grid;
   min-width: 0;
   min-height: 48px;
-  grid-template-columns: 30px minmax(0, 1fr);
+  grid-template-columns: 28px minmax(0, 1fr);
   align-items: center;
-  gap: 6px;
-  padding: 7px 8px;
+  gap: 5px;
+  padding: 7px 6px;
   position: relative;
   border: 1px solid rgba(197, 208, 220, 0.14);
   border-radius: 3px;
-  color: rgba(228, 233, 239, 0.76);
+  color: rgba(244, 242, 238, 0.65);
   background: linear-gradient(135deg, rgba(34, 41, 50, 0.84), rgba(20, 26, 33, 0.9));
   font: inherit;
   cursor: pointer;
@@ -455,7 +458,7 @@ body {
 
 .map-filter-secondary-grid > button:hover,
 .map-filter-secondary-grid > button:focus-visible {
-  color: rgba(244, 247, 250, 0.92);
+  color: rgba(244, 242, 238, 0.88);
   border-color: rgba(207, 216, 224, 0.32);
   background: linear-gradient(135deg, rgba(46, 52, 60, 0.91), rgba(25, 30, 37, 0.94));
   box-shadow: inset 0 0 12px rgba(231, 235, 239, 0.035);
@@ -487,16 +490,16 @@ body {
 
 .map-filter-secondary-icon {
   display: grid;
-  width: 28px;
-  height: 28px;
+  width: 26px;
+  height: 26px;
   place-items: center;
   color: rgba(222, 229, 236, 0.65);
 }
 
 .map-filter-secondary-icon img {
   display: block;
-  width: 27px;
-  height: 27px;
+  width: 25px;
+  height: 25px;
   object-fit: contain;
   filter: grayscale(0.17) saturate(0.79) brightness(0.9);
   transition: filter 150ms ease, transform 150ms ease;
@@ -528,7 +531,7 @@ body {
   flex: 1 1 auto;
   min-width: 0;
   overflow: hidden;
-  font-size: 13px;
+  font-size: 14px;
   font-weight: 600;
   line-height: 1.3;
   text-overflow: clip;
@@ -538,13 +541,13 @@ body {
 .map-filter-secondary-copy small {
   flex: 0 0 auto;
   margin-left: auto;
-  color: rgba(207, 216, 226, 0.48);
+  color: rgba(244, 242, 238, 0.65);
   font-size: 12px;
-  font-weight: 600;
+  font-weight: 400;
 }
 
 .map-filter-secondary-grid > button.is-active .map-filter-secondary-copy small {
-  color: rgba(235, 240, 245, 0.82);
+  color: rgba(244, 242, 238, 0.65);
 }
 
 .map-filter-empty {
@@ -553,15 +556,15 @@ body {
   color: rgba(244, 242, 238, 0.65);
   background: rgba(255, 255, 255, 0.04);
   border-radius: 7px;
-  font-size: 13px;
+  font-size: 14px;
   font-weight: 400;
   text-align: center;
 }
 
 .map-filter-search-empty {
   margin: -4px 20px 10px;
-  color: rgba(207, 216, 226, 0.62);
-  font-size: 12px;
+  color: rgba(244, 242, 238, 0.65);
+  font-size: 14px;
   font-weight: 400;
   line-height: 1.4;
 }
