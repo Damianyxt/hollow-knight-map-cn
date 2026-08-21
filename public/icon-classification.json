@@ -992,14 +992,21 @@
       "name": "国王之魂(Kingsoul)-右",
       "location": "弹窗",
       "primary": "收集物",
-      "secondary": "国王之魂"
+      "secondary": "国王之魂碎片"
     },
     {
       "iconId": "5pS26ZuG54mpL-WbveeOi-S5i-mtgi3lt6YucG5n",
       "name": "国王之魂(Kingsoul)-左",
       "location": "弹窗",
       "primary": "收集物",
-      "secondary": "国王之魂"
+      "secondary": "国王之魂碎片"
+    },
+    {
+      "iconId": "custom_kingsoul_complete",
+      "name": "国王之魂(Kingsoul)",
+      "location": "地图",
+      "primary": "技能",
+      "secondary": "护符"
     },
     {
       "iconId": "popup:icons/收集物/护符槽图标.png",
@@ -1482,14 +1489,14 @@
       "name": "梦魇之灯(Nightmare Lantern)",
       "location": "地图",
       "primary": "地点",
-      "secondary": "格林剧团内容包"
+      "secondary": "格林剧团内容"
     },
     {
       "iconId": "custom_large_bug_corpse",
       "name": "格林剧团追随者(Grimm Troupe acolyte corpse)",
       "location": "地图",
       "primary": "地点",
-      "secondary": "格林剧团内容包"
+      "secondary": "格林剧团内容"
     },
     {
       "iconId": "custom_shade_gate",
@@ -1515,6 +1522,10 @@
     {
       "itemName": "苍白矿石(Pale Ore)",
       "ownerIconId": "5Zyw5qCHK25wYy_omavniLfniLfvvIhHcnViZmF0aGVy77yJLndlYnA"
+    },
+    {
+      "itemName": "苍白矿石(Pale Ore)",
+      "ownerIconId": "Qk9TUy_or7rmlq_lhYvvvIhOb3Nr77yJLnBuZw"
     },
     {
       "itemName": "腐臭蛋",
