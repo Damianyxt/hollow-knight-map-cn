@@ -17,6 +17,7 @@
     ,"desktop:pack:win": "electron-builder --win portable --x64"
   },
   "dependencies": {
+    "aes-js": "3.1.2",
     "drizzle-orm": "0.45.2",
     "next": "16.2.6",
     "react": "19.2.6",
